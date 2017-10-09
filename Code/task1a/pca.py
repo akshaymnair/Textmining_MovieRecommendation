@@ -19,7 +19,7 @@ def main():
 	pca.fit(tf_idf_matrix)
 
 	concepts = []
-	for i in xrange(no_of_components):
+	for i in range(no_of_components):
 		concept = []
 		for j, component in enumerate(pca.components_[i]):
 			concept.append((tag_list[j], component))

@@ -1,8 +1,11 @@
 from datetime import datetime
 import pandas as pd
 from numpy import log
+import os
 
-db_folder = '../../phase2_data/'
+db_folder_path = os.path.join(os.path.dirname(__file__), "..", "..", "phase2_data")
+output_folder = os.path.join(os.path.dirname(__file__), "..", "..", "Output")
+
 mltags_file = 'mltags.csv'
 mlmovies_file = 'mlmovies.csv'
 genome_tags_file = 'genome-tags.csv'
@@ -12,7 +15,7 @@ genome_tags_file = 'genome-tags.csv'
 
 # import mltags
 def read_mltags():
-	mltags =  pd.read_csv(db_folder + mltags_file)	
+	mltags =  pd.read_csv(os.path.abspath(os.path.join(db_folder_path, mltags_file)))
 	current_time = datetime.now()
 	for i,row in mltags.iterrows():
 		mltags.set_value(i,'timestamp', (datetime.strptime(row['timestamp'],'%Y-%m-%d %H:%M:%S') - datetime.fromtimestamp(0)).total_seconds()/
@@ -21,11 +24,11 @@ def read_mltags():
 
 # import mlmovies
 def read_mlmovies():
-	return pd.read_csv(db_folder + mlmovies_file)
+	return pd.read_csv(os.path.abspath(os.path.join(db_folder_path, mlmovies_file)))
 
 # import genome-tags
 def read_genome_tags():
-	return pd.read_csv(db_folder + genome_tags_file)
+	return pd.read_csv(os.path.abspath(os.path.join(db_folder_path, genome_tags_file)))
 
 ################## HELPER FUNCTION TO PROCESS AND RETRIEVE ######################
 
@@ -73,11 +76,20 @@ def get_tf_idf_matrix(genre):
 	#print R
 	return R
 
-def print_output(input_list):
-	if not input_list:
-		print( 'Nothing to show.')
-		return
-	print('%40s\t%15s\t' %('Tag', 'Weight'))
-	for row in input_list:
-		print ('%40s\t%15s\t' %(row[0], row[1]))
+def print_output(genre, concepts):
+	print('For genre: ' + genre + ', output is :')
+	for idx, concept in enumerate(concepts):
+		print ('\nThe ' + str(idx+1) +'th concept is: ')
+		print('%40s\t%15s\t' %('Tag', 'Weight'))
+		for row in concept:
+			print ('%40s\t%15s\t' %(row[0], row[1]))
+
+def write_output_file(genre, concepts, filename):
+	f = open(os.path.abspath(os.path.join(output_folder, filename)),'w')
+	f.write('For genre: ' + genre + ', output is :' + '\n')
+	for idx, concept in enumerate(concepts):
+		f.write('\nThe ' + str(idx+1) +'th concept is: ')
+		f.write('\n%40s\t%15s\t' %('Tag', 'Weight'))
+		for row in concept:
+			f.write('\n%40s\t%15s\t' %(row[0], row[1]))
 

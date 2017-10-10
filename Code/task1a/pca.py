@@ -2,9 +2,14 @@ import pandas as pd
 from sklearn.decomposition import PCA
 import sys
 import util
+import os
+
+output_file = 'task1a_pca.out.txt'
 
 def main():
-	#Read and display the input, 
+	if len(sys.argv) < 2:
+		print('Expected arguments are not provided.')
+		return
 	genre = sys.argv[1]
 	no_of_components = 4
 	genome_tags = util.read_genome_tags()
@@ -23,12 +28,10 @@ def main():
 		concept = []
 		for j, component in enumerate(pca.components_[i]):
 			concept.append((tag_list[j], component))
-		print ('\nThe ' + str(i+1) +'th concept is: ')
-		util.print_output(concept)
+		concept.sort(key=lambda tup: abs(tup[1]), reverse=True)
 		concepts.append(concept)
+	util.print_output(genre, concepts)
+	util.write_output_file(genre, concepts, output_file)
 
-
-
-	#print('For genre: ' + genre + ', output is :')
 if __name__ == "__main__":
     main()

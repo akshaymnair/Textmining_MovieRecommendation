@@ -1,0 +1,102 @@
+For genre: Thriller, output is :
+
+The 1th concept is: 
+                                     Tag	         Weight	
+                                 zombies	  3.97658897849	
+                                  zombie	  1.60952277226	
+                                  action	  1.00109730636	
+                nudity (topless - brief)	 0.999455853153	
+                                  remake	 0.993381626365	
+                       directorial debut	  0.97571852293	
+                               slapstick	 0.423629632019	
+                                   geeks	 0.415158848258	
+                               terrorism	 0.413510262859	
+                             cannibalism	 0.412848075327	
+                              psychology	 0.411913322468	
+                             predictable	  0.40853477826	
+                           serial killer	 0.401725196229	
+                                   crime	 0.399022010582	
+                                   court	 0.392487710889	
+                        nudity (topless)	 0.390627133299	
+                               pointless	 0.389971838186	
+                                  boring	 0.387719828014	
+                                    gore	 0.384038539676	
+                             atmospheric	 0.376849849306	
+                         hannibal lecter	 0.372129365113	
+                                 violent	 0.369431405766	
+                               hilarious	 0.353732014327	
+The 2th concept is: 
+                                     Tag	         Weight	
+                                   geeks	  3.78356422695	
+                                 violent	  3.47144661571	
+                                   court	  2.10999592324	
+                               terrorism	  2.06381205206	
+                               slapstick	   1.4403572232	
+                               hilarious	  1.41453569278	
+                                    gore	  1.40795136567	
+                                  remake	 0.438355225438	
+                              psychology	 0.433941855357	
+                       directorial debut	  0.41699302646	
+                                  zombie	 0.415226965344	
+                             atmospheric	 0.413801730865	
+                             cannibalism	 0.412658252105	
+                           serial killer	 0.408883630413	
+                             predictable	 0.405852415611	
+                        nudity (topless)	  0.40125440172	
+                nudity (topless - brief)	 0.394500252109	
+                                  action	 0.391388323893	
+                                   crime	  0.39055373348	
+                                  boring	 0.384975549169	
+                               pointless	 0.384899759304	
+                                 zombies	 0.378540470882	
+                         hannibal lecter	 0.372774110619	
+The 3th concept is: 
+                                     Tag	         Weight	
+                               pointless	  3.24098935506	
+                              psychology	  1.93049452687	
+                             cannibalism	  1.92362498271	
+                           serial killer	  1.88997646384	
+                             predictable	  1.81722540231	
+                         hannibal lecter	  1.15449438845	
+                             atmospheric	  1.14529042135	
+                                  boring	  1.13176845442	
+                                 zombies	  0.40732026911	
+                                    gore	 0.406643727023	
+                       directorial debut	 0.405160812075	
+                               slapstick	 0.398201897881	
+                               hilarious	 0.395425374563	
+                               terrorism	 0.395047818077	
+                                   crime	 0.391015486664	
+                                  remake	 0.390986537837	
+                nudity (topless - brief)	 0.386175275285	
+                                 violent	 0.385103231879	
+                        nudity (topless)	  0.38299609915	
+                                  zombie	  0.37536139145	
+                                   court	 0.374703079754	
+                                  action	   0.3584010894	
+                                   geeks	 0.354661590468	
+The 4th concept is: 
+                                     Tag	         Weight	
+                                   crime	  3.73853525132	
+                        nudity (topless)	  2.51929330129	
+                         hannibal lecter	 0.476448692593	
+                             atmospheric	  0.45228094444	
+                           serial killer	 0.446588054913	
+                                    gore	 0.429924784366	
+                              psychology	 0.422514088565	
+                                  boring	 0.421425186459	
+                               slapstick	 0.419744812198	
+                                  action	 0.417192099475	
+                             cannibalism	 0.416586064347	
+                             predictable	 0.409318902662	
+                                   geeks	 0.406943496654	
+                                 violent	 0.405060257298	
+                nudity (topless - brief)	 0.403656030137	
+                       directorial debut	 0.401330208177	
+                               pointless	 0.398504378287	
+                                  zombie	 0.396888378263	
+                                   court	 0.388754753752	
+                                  remake	 0.388401855558	
+                               terrorism	 0.386122161598	
+                                 zombies	 0.374798638471	
+                               hilarious	 0.361690252786	

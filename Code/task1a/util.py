@@ -3,7 +3,7 @@ import pandas as pd
 from numpy import log
 import os
 
-db_folder_path = os.path.join(os.path.dirname(__file__), "..", "..", "phase2_data")
+db_folder_path = os.path.join(os.path.dirname(__file__), "..", "..", "Phase2_data")
 output_folder = os.path.join(os.path.dirname(__file__), "..", "..", "Output")
 
 mltags_file = 'mltags.csv'

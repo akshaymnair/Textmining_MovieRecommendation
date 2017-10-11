@@ -1,5 +1,4 @@
 import pandas as pd
-from sklearn.decomposition import PCA
 from sklearn.decomposition import TruncatedSVD
 from sklearn.random_projection import sparse_random_matrix
 import sys

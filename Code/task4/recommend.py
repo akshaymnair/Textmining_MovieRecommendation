@@ -86,6 +86,6 @@ for movie_id in movies:
 	genre_values = check_genre(genres, movie_id)
 	user_values = check_user(users, movie_id)
 	actor_values = check_actor(actors, movie_id)
-	df_movie_final.loc[id] = tag_values + user_values + genre_values + actor_values
+	df_movie_final.loc[movie_id] = tag_values + user_values + genre_values + actor_values
 print df_movie_final
 save_obj(df_movie_final, 'movie_final.pkl')

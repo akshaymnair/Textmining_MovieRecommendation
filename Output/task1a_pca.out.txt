@@ -68,7 +68,7 @@ The 3th concept is:
                                   boring	-0.00372262376476	
                          hannibal lecter	-0.00371770117918	
                         nudity (topless)	-0.00371471598308	
-                                   court	-0.00358234815639	
+                                   court	-0.0035823481564	
                                terrorism	-0.00350740749596	
                                   zombie	0.00323909579372	
                                   action	0.00163551376513	

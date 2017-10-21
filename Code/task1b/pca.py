@@ -30,7 +30,6 @@ def main():
 			concept.append((actor_list[j], component))
 		concept.sort(key=lambda tup: abs(tup[1]), reverse=True)
 		concepts.append(concept)
-	print concepts
 	util.print_output(genre, concepts)
 	util.write_output_file(genre, concepts, output_file)
 

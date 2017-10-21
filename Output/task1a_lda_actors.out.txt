@@ -1,0 +1,9 @@
+For genre: Drama, Latent topics are:
+Topic: 0 is 
+0.018*"De Niro, Robert" + 0.018*"Bright, Cameron" + 0.018*"Romijn, Rebecca" + 0.018*"Kinnear, Greg" + 0.018*"Phifer, Mekhi" + 0.018*"Weber, Jake" + 0.018*"Polley, Sarah" + 0.018*"Rhames, Ving" + 0.018*"Short, Columbus" + 0.018*"Henson, Darrin Dewitt"
+Topic: 1 is 
+0.019*"Travolta, John" + 0.019*"Downey Jr., Robert" + 0.019*"Katt, Nicky" + 0.019*"Duchovny, David" + 0.019*"Keener, Catherine" + 0.019*"McCormack, Mary" + 0.019*"Roberts, Julia" + 0.019*"Didawick, Dawn" + 0.019*"Brisbin, David" + 0.019*"Finney, Albert"
+Topic: 2 is 
+0.021*"Fiennes, Joseph" + 0.021*"Weisz, Rachel" + 0.021*"Law, Jude" + 0.021*"Harris, Ed" + 0.021*"Nouri, Michael" + 0.021*"Carman" + 0.021*"Williams, Jeremy" + 0.021*"Manterola, Patricia" + 0.021*"Fillion, Nathan" + 0.021*"Russell, Keri"
+Topic: 3 is 
+0.025*"Shalhoub, Tony" + 0.025*"Epps, Omar" + 0.025*"Dutton, Charles S." + 0.025*"Ryan, Meg" + 0.025*"Cooper, Chris" + 0.025*"Dhavernas, Caroline" + 0.025*"Linney, Laura" + 0.025*"Phillippe, Ryan" + 0.025*"Walker, Paul" + 0.025*"Greenwood, Bruce"

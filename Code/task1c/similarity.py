@@ -10,13 +10,16 @@ def main():
 	if len(sys.argv) < 2:
 		print('Expected arguments are not provided.')
 		return
-	actorid = sys.argv[1]
+	actorid = int(sys.argv[1])
 
 	tf_idf_matrix = util.get_tf_idf_matrix()
-	print(tf_idf_matrix)
-	#actor_tf_idf = tf_idf_matrix.where(tf_idf_matrix['actorid']==actorid).dropna()
+	#print (tf_idf_matrix)
+	
+	actor_tf_idf = tf_idf_matrix.loc[actorid]
 	#print (actor_tf_idf)
 
+	for index, row in tf_idf_matrix.iterrows():
+		print (1- cosine(row, actor_tf_idf))
 	#cos_sim = cosine_similarity(tf_idf_matrix)
 	#print (cos_sim)
 

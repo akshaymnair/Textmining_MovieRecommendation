@@ -79,7 +79,7 @@ def get_tf_idf_matrix():
 	#print M2
 
 	# Pivot the matrix to get in required form 
-	R = M2.pivot(index='actorid', columns='tagid', values='tfidf').fillna(0)
+	R = M2.pivot_table(index='actorid', columns='tagid', values='tfidf').fillna(0)
 	#print R
 	return R
 

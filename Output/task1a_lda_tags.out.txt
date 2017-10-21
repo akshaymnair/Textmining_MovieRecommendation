@@ -1,0 +1,9 @@
+For genre: Crime, Latent topics are:
+Topic: 0 is
+0.273*"motorcycle" + 0.151*"murder" + 0.151*"not funny" + 0.030*"family" + 0.030*"based on book" + 0.030*"action" + 0.030*"hacking" + 0.030*"over the top" + 0.030*"hackers" + 0.030*"heroine in tight suit"
+Topic: 1 is
+0.184*"cool" + 0.184*"nudity (topless - notable)" + 0.102*"action" + 0.102*"hackers" + 0.102*"over the top" + 0.102*"hacking" + 0.020*"based on book" + 0.020*"family" + 0.020*"not funny" + 0.020*"murder"
+Topic: 2 is
+0.059*"based on book" + 0.059*"family" + 0.059*"not funny" + 0.059*"murder" + 0.059*"motorcycle" + 0.059*"action" + 0.059*"hacking" + 0.059*"over the top" + 0.059*"hackers" + 0.059*"heroine in tight suit"
+Topic: 3 is
+0.233*"comic book" + 0.178*"superhero" + 0.068*"dark" + 0.068*"marvel" + 0.068*"bad acting" + 0.068*"heroine in tight suit" + 0.068*"action" + 0.068*"based on book" + 0.068*"family" + 0.014*"not funny"

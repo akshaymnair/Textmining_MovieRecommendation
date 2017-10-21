@@ -3,6 +3,13 @@ import actor_vector as av
 import numpy as np
 import math
 
+actor_tfidf_dict = dict()
+
+def get_tfidf(i):
+	if(i not in actor_tfidf_dict):
+		actor_tfidf_dict[i]=av.tfidf(i)
+	return actor_tfidf_dict[i]
+
 def cosine_similarity(list1,list2):
 	dic1 = {k[0]:k[1] for k in list1}
 	dic2 = {k[0]:k[1] for k in list2}
@@ -30,6 +37,6 @@ for i in actor_ids:
 		elif df[j][i] != 0.0:
 			df[i][j] = df[j][i]	
 		else:
-			df[i][j] = cosine_similarity(av.tfidf(i),av.tfidf(j))
+			df[i][j] = cosine_similarity(get_tfidf(i),get_tfidf(j))
 
 df.to_pickle('actor_actor_sim_matrix.pkl')

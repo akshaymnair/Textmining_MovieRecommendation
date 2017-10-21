@@ -27,7 +27,7 @@ def tfidf(actor_id):
 	movietags = tags.where(tags['movieid'].isin(movieids)).dropna()
 	for i,row in movietags.iterrows():
 		movie_actor1 = movie_actor[(movie_actor['actorid']==actor_id)]
-		movie_actor1 = movie_actor[movie_actor['movieid']==row[1]]
+		movie_actor1 = movie_actor1[movie_actor1['movieid']==row[1]]
 	
 		row[3] /= movie_actor1.iloc[0,2]
 	distinct_tags = movietags.tagid.unique()

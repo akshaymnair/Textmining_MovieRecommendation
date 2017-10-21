@@ -6,7 +6,7 @@ import math
 df = pd.read_pickle('actor_actor_sim_matrix.pkl')
 pd.set_option('display.max_rows', 500)
 
-print df.sum(axis=1)
+print df
 
 #Column Access
 #print df_new[1860883]

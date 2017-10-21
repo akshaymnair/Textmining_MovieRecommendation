@@ -18,4 +18,11 @@ Install Pandas:
 For Task 1a, For SVD and PCA: you can use the same function.
 
 
+For Task 3
+Run scripts to create coactor and similarity matrices
+python actor_sim_matrix.py 
+python coactor_matrix.py
 
+Run following sample code to get recommendations related to a seeded list of actors
+python actor_recommend.py '1014988,1342347,1698048'
+python coactor_recommend.py '1014988,1342347,1698048'

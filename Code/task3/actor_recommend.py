@@ -11,7 +11,7 @@ df = df_norm.fillna(0.0)
 df_norm = df
 
 seed_actors = sys.argv[1].split(',')
-seed_actors = map(int, seed_actors)
+seed_actors = list(map(int, seed_actors))
 
 #Sample seed_actors = (1014988,1342347,1698048)
 

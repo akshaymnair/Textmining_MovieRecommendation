@@ -1,0 +1,13 @@
+For actorid: 17838 and actor: Affleck, Ben, output is :
+
+        Actorid	                              Actor name	cosine similarity	
+        3558986	                           Polley, Sarah	 0.999999978627	
+        2991079	                        Garner, Jennifer	  0.99999991587	
+         692749	                          Farrell, Colin	 0.999999663632	
+        2436599	                             Weber, Jake	 0.999999468683	
+         623809	                  Duncan, Michael Clarke	 0.999999243514	
+        1792455	                           Phifer, Mekhi	 0.999998959402	
+        1014988	                        Hopkins, Anthony	 0.999900220308	
+        3426176	                         Moore, Julianne	 0.999892390362	
+        1698048	                            Oldman, Gary	 0.999884269837	
+        1342347	                             Liotta, Ray	 0.999875859286	

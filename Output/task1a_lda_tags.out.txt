@@ -1,9 +1,9 @@
-For genre: Crime, Latent topics are:
+For genre: Action, Latent topics are:
 Topic: 0 is
-0.273*"motorcycle" + 0.151*"murder" + 0.151*"not funny" + 0.030*"family" + 0.030*"based on book" + 0.030*"action" + 0.030*"hacking" + 0.030*"over the top" + 0.030*"hackers" + 0.030*"heroine in tight suit"
+0.218*"comic book" + 0.167*"superhero" + 0.064*"action" + 0.064*"dark" + 0.064*"bad acting" + 0.064*"heroine in tight suit" + 0.064*"marvel" + 0.064*"espionage" + 0.013*"comedy" + 0.013*"murder"
 Topic: 1 is
-0.184*"cool" + 0.184*"nudity (topless - notable)" + 0.102*"action" + 0.102*"hackers" + 0.102*"over the top" + 0.102*"hacking" + 0.020*"based on book" + 0.020*"family" + 0.020*"not funny" + 0.020*"murder"
+0.236*"zombies" + 0.085*"zombie" + 0.085*"not funny" + 0.085*"motorcycle" + 0.047*"remake" + 0.047*"directorial debut" + 0.047*"nudity (topless - brief)" + 0.047*"buddy movie" + 0.047*"england" + 0.047*"murder"
 Topic: 2 is
-0.059*"based on book" + 0.059*"family" + 0.059*"not funny" + 0.059*"murder" + 0.059*"motorcycle" + 0.059*"action" + 0.059*"hacking" + 0.059*"over the top" + 0.059*"hackers" + 0.059*"heroine in tight suit"
+0.147*"court" + 0.147*"terrorism" + 0.030*"comedy" + 0.029*"espionage" + 0.029*"murder" + 0.029*"motorcycle" + 0.029*"not funny" + 0.029*"england" + 0.029*"buddy movie" + 0.029*"action"
 Topic: 3 is
-0.233*"comic book" + 0.178*"superhero" + 0.068*"dark" + 0.068*"marvel" + 0.068*"bad acting" + 0.068*"heroine in tight suit" + 0.068*"action" + 0.068*"based on book" + 0.068*"family" + 0.014*"not funny"
+0.155*"cool" + 0.155*"nudity (topless - notable)" + 0.086*"action" + 0.086*"over the top" + 0.086*"hacking" + 0.086*"hackers" + 0.017*"comedy" + 0.017*"espionage" + 0.017*"murder" + 0.017*"motorcycle"

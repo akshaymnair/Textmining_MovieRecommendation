@@ -66,7 +66,7 @@ def get_tf_idf_matrix(genre):
 	M2 = pd.merge(M1, movies_per_actor, on=['actorid', 'actorid'], how = 'inner')
 
 	# Perform TF-IDF from the data.
-	M2['tfidf'] = M2['tf']*log(genre_movie_count/M2['m_count'])/M2['a_count']
+	M2['tfidf'] = M2['tf']*log(genre_movie_count/M2['a_count'])/M2['m_count']
 	#print M2
 
 	# Pivot the matrix to get in required form 

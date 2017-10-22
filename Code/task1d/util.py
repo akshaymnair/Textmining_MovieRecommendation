@@ -27,12 +27,16 @@ def read_mltags():
 def read_imdb_actor_info():
 	return pd.read_csv(os.path.abspath(os.path.join(db_folder_path, imdb_actor_info_file)))
 
+# import mlmovies
+def read_mlmovies():
+	return pd.read_csv(os.path.abspath(os.path.join(db_folder_path, mlmovies_file)))
+
 def read_movie_actor():
 	return pd.read_csv(os.path.abspath(os.path.join(db_folder_path, movie_actor_file)))
 
 ################## HELPER FUNCTION TO PROCESS AND RETRIEVE ######################
 
-def get_tf_idf_matrix():
+def get_actor_tf_idf_matrix():
 	mltags = read_mltags()
 	movie_actor = read_movie_actor()
 
@@ -67,20 +71,39 @@ def get_tf_idf_matrix():
 	#print R
 	return R
 
-def get_tf_matrix():
+def get_movie_tf_idf(movieid):
 	mltags = read_mltags()
-	movie_actor = read_movie_actor()
+	mlmovies = read_mlmovies()
 
-	mltags_with_actor = pd.merge(movie_actor, mltags, on='movieid')
+	#IDF numerator
+	movie_count = mltags.loc[:,'movieid'].unique().shape[0]
+	#print(movie_count)
+	mltags_for_movie = mltags.where(mltags['movieid']==movieid).dropna()
+	#print(mltags_for_movie)
 
-	#term is created to merge actor_movie_rank and timestamp
-	mltags_with_actor['term'] = mltags_with_actor['timestamp']*(100/(99+mltags_with_actor['actor_movie_rank']))
+	# Needed for TF denominators. Calcuate total number of tags per movie
+	no_tags = mltags_for_movie.shape[0]
+	#print(no_tags)
+
+	# Needed for IDF denonminators. Calculate unique movieids for each tag
+	no_movies_per_tag = mltags.groupby('tagid', as_index=False)['movieid'].agg({'m_count' : pd.Series.nunique})
+	#print(no_movies_per_tag)
 
 	# Grouped so as to create unique tagid, movieid pairs and calculate term frequency from timestamp
-	actorid_tagid_grouped = mltags_with_actor.groupby(['tagid', 'actorid'], as_index=False)['term'].agg({'tf': 'sum'})
+	tagid_grouped = mltags_for_movie.groupby('tagid', as_index=False)['timestamp'].agg({'tf': 'sum'})
+	#print(tagid_grouped)
+
+	# Merge movie_counts. Add new column including calculated movies_per_tag.
+	M = pd.merge(tagid_grouped, no_movies_per_tag, on=['tagid', 'tagid'], how = 'inner')
+	#print(M)
+
+	# Perform TF-IDF from the data.
+	M['tfidf'] = M['tf']*log(movie_count/M['m_count'])/no_tags
+	M['movieid'] = movieid
+	#print (M)
 
 	# Pivot the matrix to get in required form 
-	R = actorid_tagid_grouped.pivot_table(index='actorid', columns='tagid', values='tf').fillna(0)
+	R = M.pivot(index='movieid', columns='tagid', values='tfidf').fillna(0)
 	#print (R)
 	return R
 

@@ -26,7 +26,6 @@ def main():
 def latent_actor_semantics(actor_matrix):
 	imdb_actor_info = util.read_imdb_actor_info()
 	actor_list = imdb_actor_info.id.unique()
-	imdb_actor_info = util.read_imdb_actor_info()
 	actor_list = imdb_actor_info[imdb_actor_info['id'].isin(actor_list)]['name'].tolist()
 	concepts = []
 	for i in range(no_of_components):

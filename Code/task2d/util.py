@@ -5,8 +5,9 @@ db_folder_path = os.path.join(os.path.dirname(__file__), "..", "..", "Phase2_dat
 output_folder = os.path.join(os.path.dirname(__file__), "..", "..", "Output")
 
 mlmovies_file = 'mlmovies.csv'
-movie_actor_file = 'movie-actor.csv'
-imdb_actor_info_file = 'imdb-actor-info.csv'
+mlratings_file = 'mlratings.csv'
+mltags_file = 'mltags.csv'
+genome_tags_file = 'genome-tags.csv'
 
 ############### HELPER FUNCTION TO READ FILES #################################
 
@@ -14,13 +15,17 @@ imdb_actor_info_file = 'imdb-actor-info.csv'
 def read_mlmovies():
 	return pd.read_csv(os.path.abspath(os.path.join(db_folder_path, mlmovies_file)))
 
-# import imdb-actor-info
-def read_imdb_actor_info():
-	return pd.read_csv(os.path.abspath(os.path.join(db_folder_path, imdb_actor_info_file)))
+# import mlratings
+def read_mlratings():
+	return pd.read_csv(os.path.abspath(os.path.join(db_folder_path, mlratings_file)))
 
-# import movie-actor
-def read_movie_actor():
-	return pd.read_csv(os.path.abspath(os.path.join(db_folder_path, movie_actor_file)))
+# import mltags
+def read_mltags():
+	return pd.read_csv(os.path.abspath(os.path.join(db_folder_path, mltags_file)))
+
+# import mltags
+def read_genome_tags():
+	return pd.read_csv(os.path.abspath(os.path.join(db_folder_path, genome_tags_file)))
 
 ################## HELPER FUNCTION TO PROCESS AND RETRIEVE ######################
 

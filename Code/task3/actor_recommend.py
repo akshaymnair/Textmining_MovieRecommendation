@@ -41,4 +41,4 @@ for i in seed_actors:
 		pass
 
 #Display top 10 related actors
-print pr.loc['PageRank'].nlargest(10)
+print (pr.loc['PageRank'].nlargest(10))

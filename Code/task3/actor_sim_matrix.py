@@ -17,7 +17,7 @@ def cosine_similarity(list1,list2):
 	dic2 = {k[0]:k[1] for k in list2}
 	numerator = 0.0
 	denominator1 = 0.0
-	for key,value in dic1.iteritems():
+	for key,value in dic1.items():
 		numerator += value*dic2.get(key,0.0)
 		denominator1 += value*value
 	denominator2 = 0.0

@@ -24,8 +24,6 @@ def read_imdb_actor_info():
 # import movie-actor
 def read_movie_actor():
 	movie_actor = pd.read_csv(os.path.abspath(os.path.join(db_folder_path, movie_actor_file)))
-	max_rank = movie_actor[['actor_movie_rank']].apply(max)[0]
-	min_rank = movie_actor[['actor_movie_rank']].apply(min)[0]
 	for i,row in movie_actor.iterrows():
 		movie_actor.iloc[i,2] = 1/float(row['actor_movie_rank'])
 	return movie_actor

@@ -10,6 +10,7 @@ mltags_file = 'mltags.csv'
 mlmovies_file = 'mlmovies.csv'
 genome_tags_file = 'genome-tags.csv'
 movie_actor_file = 'movie-actor.csv'
+imdb_actor_info_file = 'imdb-actor-info.csv'
 
 ############### HELPER FUNCTION TO READ FILES #################################
 
@@ -22,31 +23,14 @@ def read_mltags():
 			(current_time - datetime.fromtimestamp(0)).total_seconds())
 	return mltags
 
-# import mlmovies
-def read_mlmovies():
-	return pd.read_csv(os.path.abspath(os.path.join(db_folder_path, mlmovies_file)))
-
-# import genome-tags
-def read_genome_tags():
-	return pd.read_csv(os.path.abspath(os.path.join(db_folder_path, genome_tags_file)))
+# import imdb-actor-info
+def read_imdb_actor_info():
+	return pd.read_csv(os.path.abspath(os.path.join(db_folder_path, imdb_actor_info_file)))
 
 def read_movie_actor():
 	return pd.read_csv(os.path.abspath(os.path.join(db_folder_path, movie_actor_file)))
 
 ################## HELPER FUNCTION TO PROCESS AND RETRIEVE ######################
-
-def get_movie_genre(mlmovies):
-	movie_genre = pd.DataFrame(mlmovies.genres.str.split('|').tolist(), index = mlmovies.movieid).stack()
-	movie_genre = movie_genre.reset_index()[[0,'movieid']]
-	movie_genre.columns = ['genre','movieid']
-	return movie_genre
-
-def filter_by_actor(mltags, mlmovies, movie_actor):
-	movie_genre = get_movie_genre(mlmovies)
-	movieids_of_genre = movie_genre.where(movie_genre['genre']==genre).dropna().loc[:,'movieid'].unique()
-	mltags_of_actor = mltags.where(mltags['movieid'].isin(movieids_of_genre)).dropna()
-	genre_movie_count = int(movieids_of_genre.shape[0])
-	return (genre_movie_count, mltags_of_actor)
 
 def get_tf_idf_matrix():
 	mltags = read_mltags()
@@ -83,20 +67,16 @@ def get_tf_idf_matrix():
 	#print R
 	return R
 
-def print_output(genre, concepts):
-	print('For genre: ' + genre + ', output is :')
-	for idx, concept in enumerate(concepts):
-		print ('\nThe ' + str(idx+1) +'th concept is: ')
-		print('%40s\t%15s\t' %('Tag', 'Weight'))
-		for row in concept:
-			print ('%40s\t%15s\t' %(row[0], row[1]))
+def print_output(actorid, actor, actors):
+	print('For actorid: ' + str(actorid) + ' and actor: '+ actor + ', output is :')
+	print('\n%15s\t%40s\t%15s\t' %('Actorid', 'Actor name', 'cosine similarity'))
+	for idx, row in enumerate(actors):
+		print ('%15s\t%40s\t%15s\t' %(str(row[0]), row[1], str(row[2])))
 
-def write_output_file(genre, concepts, filename):
+def write_output_file(actorid, actor, actors, filename):
 	f = open(os.path.abspath(os.path.join(output_folder, filename)),'w')
-	f.write('For genre: ' + genre + ', output is :' + '\n')
-	for idx, concept in enumerate(concepts):
-		f.write('\nThe ' + str(idx+1) +'th concept is: ')
-		f.write('\n%40s\t%15s\t' %('Tag', 'Weight'))
-		for row in concept:
-			f.write('\n%40s\t%15s\t' %(row[0], row[1]))
+	f.write('For actorid: ' + str(actorid) + ' and actor: '+ actor + ', output is :'+ '\n')
+	f.write('\n%15s\t%40s\t%15s\t' %('Actorid', 'Actor name', 'cosine similarity'))
+	for idx, row in enumerate(actors):
+		f.write('\n%15s\t%40s\t%15s\t' %(row[0], row[1], row[2]))
 

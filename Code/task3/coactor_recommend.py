@@ -4,6 +4,8 @@ import numpy as np
 import math
 import sys
 
+sys.stdout = open('../../Output/task3_coactor_recommend.out.txt', "w")
+
 df = pd.read_pickle('coactor_matrix.pkl')
 #Normalize the matrix to sum upto 1. This becomes the transition probability then.
 df_norm = df.div(df.sum(axis=1), axis=0)

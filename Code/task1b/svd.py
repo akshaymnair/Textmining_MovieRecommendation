@@ -1,5 +1,6 @@
 import pandas as pd
-from sklearn.decomposition import TruncatedSVD as SVD
+from sklearn.decomposition import TruncatedSVD
+from sklearn.random_projection import sparse_random_matrix
 import sys
 import util
 import os
@@ -20,7 +21,7 @@ def main():
 	actor_list = imdb_actor_info[imdb_actor_info['id'].isin(actor_list)]['name'].tolist()
 	#print actor_list
 	
-	svd = SVD(n_components=no_of_components)
+	svd = TruncatedSVD(n_components=no_of_components, n_iter=100, random_state=None)
 	svd.fit(tf_idf_matrix)
 
 	concepts = []

@@ -36,6 +36,34 @@ def read_movie_actor():
 
 ################## HELPER FUNCTION TO PROCESS AND RETRIEVE ######################
 
+def get_actor_tf_matrix():
+	mltags = read_mltags()
+	movie_actor = read_movie_actor()
+
+	mltags_with_actor = pd.merge(movie_actor, mltags, on='movieid')
+
+	#term is created to merge actor_movie_rank and timestamp
+	mltags_with_actor['term'] = mltags_with_actor['timestamp']*(100/(99+mltags_with_actor['actor_movie_rank']))
+
+	# Grouped so as to create unique tagid, movieid pairs and calculate term frequency from timestamp
+	actorid_tagid_grouped = mltags_with_actor.groupby(['tagid', 'actorid'], as_index=False)['term'].agg({'tf': 'sum'})
+
+	# Pivot the matrix to get in required form 
+	R = actorid_tagid_grouped.pivot_table(index='actorid', columns='tagid', values='tf').fillna(0)
+	#print R
+	return R
+
+def get_movie_tf_matrix():
+	mltags = read_mltags()
+
+	# Grouped so as to create unique tagid, movieid pairs and calculate term frequency from timestamp
+	tagid_movieid_grouped = mltags.groupby(['tagid', 'movieid'], as_index=False)['timestamp'].agg({'tf': 'sum'})
+
+	# Pivot the matrix to get in required form 
+	R = tagid_movieid_grouped.pivot(index='movieid', columns='tagid', values='tf').fillna(0)
+	#print(R)
+	return R
+
 def get_actor_tf_idf_matrix():
 	mltags = read_mltags()
 	movie_actor = read_movie_actor()
@@ -71,51 +99,49 @@ def get_actor_tf_idf_matrix():
 	#print R
 	return R
 
-def get_movie_tf_idf(movieid):
+def get_movie_tf_idf_matrix():
 	mltags = read_mltags()
-	mlmovies = read_mlmovies()
 
-	#IDF numerator
 	movie_count = mltags.loc[:,'movieid'].unique().shape[0]
-	#print(movie_count)
-	mltags_for_movie = mltags.where(mltags['movieid']==movieid).dropna()
-	#print(mltags_for_movie)
 
 	# Needed for TF denominators. Calcuate total number of tags per movie
-	no_tags = mltags_for_movie.shape[0]
-	#print(no_tags)
+	tags_per_movie = mltags.groupby('movieid', as_index=False)['tagid'].agg({'m_count' : pd.Series.count})
 
 	# Needed for IDF denonminators. Calculate unique movieids for each tag
-	no_movies_per_tag = mltags.groupby('tagid', as_index=False)['movieid'].agg({'m_count' : pd.Series.nunique})
-	#print(no_movies_per_tag)
+	movies_per_tag = mltags.groupby('tagid', as_index=False)['movieid'].agg({'t_count' : pd.Series.nunique})
 
 	# Grouped so as to create unique tagid, movieid pairs and calculate term frequency from timestamp
-	tagid_grouped = mltags_for_movie.groupby('tagid', as_index=False)['timestamp'].agg({'tf': 'sum'})
-	#print(tagid_grouped)
+	tagid_movieid_grouped = mltags.groupby(['tagid', 'movieid'], as_index=False)['timestamp'].agg({'tf': 'sum'})
+
+	# Merge tag_counts. Add new column including calculated tags_per_movie.
+	M1 = pd.merge(tagid_movieid_grouped, tags_per_movie, on=['movieid','movieid'], how='inner')
 
 	# Merge movie_counts. Add new column including calculated movies_per_tag.
-	M = pd.merge(tagid_grouped, no_movies_per_tag, on=['tagid', 'tagid'], how = 'inner')
-	#print(M)
+	M2 = pd.merge(M1, movies_per_tag, on=['tagid', 'tagid'], how = 'inner')
 
 	# Perform TF-IDF from the data.
-	M['tfidf'] = M['tf']*log(movie_count/M['m_count'])/no_tags
-	M['movieid'] = movieid
-	#print (M)
+	M2['tfidf'] = M2['tf']*log(movie_count/M2['t_count'])/M2['m_count']
+	#print M2
+
+	# Pivot the matrix to get in required form 
+	R = M2.pivot(index='movieid', columns='tagid', values='tfidf').fillna(0)
+	#print(R)
+	return R
 
 	# Pivot the matrix to get in required form 
 	R = M.pivot(index='movieid', columns='tagid', values='tfidf').fillna(0)
 	#print (R)
 	return R
 
-def print_output(actorid, actor, actors):
-	print('For actorid: ' + str(actorid) + ' and actor: '+ actor + ', output is :')
+def print_output(movieid, movie, actors):
+	print('For actorid: ' + str(movieid) + ' and actor: '+ movie + ', output is :')
 	print('\n%15s\t%40s\t%15s\t' %('Actorid', 'Actor name', 'cosine similarity'))
 	for idx, row in enumerate(actors):
 		print ('%15s\t%40s\t%15s\t' %(str(row[0]), row[1], str(row[2])))
 
-def write_output_file(actorid, actor, actors, filename):
+def write_output_file(movieid, movie, actors, filename):
 	f = open(os.path.abspath(os.path.join(output_folder, filename)),'w')
-	f.write('For actorid: ' + str(actorid) + ' and actor: '+ actor + ', output is :'+ '\n')
+	f.write('For actorid: ' + str(movieid) + ' and actor: '+ movie + ', output is :'+ '\n')
 	f.write('\n%15s\t%40s\t%15s\t' %('Actorid', 'Actor name', 'cosine similarity'))
 	for idx, row in enumerate(actors):
 		f.write('\n%15s\t%40s\t%15s\t' %(row[0], row[1], row[2]))

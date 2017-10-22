@@ -2,7 +2,6 @@ import pandas as pd
 import sys
 import util
 import os
-from scipy.spatial.distance import cosine
 
 output_file = 'task1d_related_actor.out.txt'
 no_of_actors = 10
@@ -13,23 +12,31 @@ def main():
 		return
 	movieid = int(sys.argv[1])
 	mlmovies = util.read_mlmovies()
+	movie_actors = util.read_movie_actor()
+	imdb_actor_info = util.read_imdb_actor_info()
+
 	input_movie = mlmovies[mlmovies['movieid'] == movieid]['moviename'].values[0]
+	actors_of_movie = movie_actors.where(movie_actors['movieid']==movieid).dropna().loc[:,'actorid'].unique()
+	#print (actors_of_movie)
 
-	input_movie_vector = util.get_movie_tf_idf(movieid)
+	movie_matrix = util.get_movie_tf_idf_matrix()
 	actor_matrix = util.get_actor_tf_idf_matrix()
-	#print(actor_matrix)
-
-	exit(0)
+	#print(actor_matrix.shape)
+	input_movie_vector = pd.DataFrame(movie_matrix.loc[movieid])#.transpose()
+	#print(input_movie_vector.shape)
+	similarity_matrix = actor_matrix.dot(input_movie_vector)
+	similarity_matrix = similarity_matrix[~similarity_matrix.index.isin(actors_of_movie)]
+	#print(similarity_matrix)
 
 	actors = []
-	for index, row in tf_idf_matrix.iterrows():
+	for index, row in similarity_matrix.iterrows():
 		actor_name = imdb_actor_info[imdb_actor_info['id'] == index]['name'].values[0]
-		actors.append((index, actor_name, 1 - cosine(row, input_actor_tf_idf)))
-	other_actors = list(filter(lambda tup: tup[0] != actorid, actors))
-	other_actors.sort(key=lambda tup: tup[2], reverse=True)
+		actors.append((index, actor_name, similarity_matrix.loc[index][movieid]))
+	actors.sort(key=lambda tup: tup[2], reverse=True)
+	#print (actors)
 	
-	util.print_output(actorid, input_actor, other_actors[:no_of_actors])
-	util.write_output_file(actorid, input_actor, other_actors[:no_of_actors], output_file)
+	util.print_output(movieid, input_movie, actors[:no_of_actors])
+	util.write_output_file(movieid, input_movie, actors[:no_of_actors], output_file)
 
 if __name__ == "__main__":
     main()

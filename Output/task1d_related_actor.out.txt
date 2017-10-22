@@ -1,0 +1,13 @@
+For actorid: 4999 and actor: Collateral Damage, output is :
+
+        Actorid	                              Actor name	cosine similarity	
+          17838	                            Affleck, Ben	            0.0	
+          61523	                       Anderson, Anthony	            0.0	
+          96585	                            Ashker, John	            0.0	
+         128645	                           Baldwin, Alec	            0.0	
+         172359	                            Beesley, Max	            0.0	
+         277151	                         Bright, Cameron	            0.0	
+         283459	                           Brooks, Avery	            0.0	
+         313166	                           Burns, Edward	            0.0	
+         316365	                          Buscemi, Steve	            0.0	
+         386263	                            Chan, Jackie	            0.0	

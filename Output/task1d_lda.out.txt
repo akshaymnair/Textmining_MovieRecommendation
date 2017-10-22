@@ -1,0 +1,13 @@
+For actorid: 4999 and actor: Collateral Damage, output is :
+
+        Actorid	                              Actor name	cosine similarity	
+         713207	                         Fiennes, Joseph	  22.1955095067	
+        1290791	                               Law, Jude	  21.9119035341	
+         938435	                              Harris, Ed	  21.6949539941	
+        3898471	                           Weisz, Rachel	  21.4822583668	
+        1907368	                            Rhames, Ving	  9.16662889124	
+        1860883	                       Radcliffe, Daniel	  8.83630049266	
+         878356	                      Griffiths, Richard	  8.74881236897	
+        2946264	                             Ferris, Pam	  8.66303969868	
+        3704908	                             Shaw, Fiona	  8.57893251714	
+        2312401	                          Travolta, John	  6.26115317614	

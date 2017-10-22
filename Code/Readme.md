@@ -14,6 +14,7 @@ Install Pandas:
 	Run pip install pandas
 	Run pip install scikit-learn
 	Run pip install scipy
+	pip install -U tensorly
 
 For Task 1a, For SVD and PCA: you can use the same function.
 

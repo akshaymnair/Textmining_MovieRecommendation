@@ -1,0 +1,13 @@
+For actorid: 17838 and actor: Affleck, Ben, output is :
+
+        Actorid	                              Actor name	cosine similarity	
+         623809	                  Duncan, Michael Clarke	            1.0	
+         692749	                          Farrell, Colin	            1.0	
+        2991079	                        Garner, Jennifer	            1.0	
+         810424	                           Germann, Greg	 0.947702586498	
+        1061413	                           Isaacs, Jason	 0.947702586498	
+        1892087	                           Reeves, Keanu	 0.947702586498	
+        3807179	                        Theron, Charlize	 0.947702586498	
+         485553	                        Cronin, Jonathan	 0.457133875458	
+         830152	                        Glauser, Michael	 0.457133875458	
+        1405458	                     Mainwaring, Cameron	 0.457133875458	

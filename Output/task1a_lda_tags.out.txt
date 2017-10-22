@@ -1,0 +1,9 @@
+For genre: Action, Latent topics are:
+Topic: 0 is
+0.218*"comic book" + 0.167*"superhero" + 0.064*"action" + 0.064*"dark" + 0.064*"bad acting" + 0.064*"heroine in tight suit" + 0.064*"marvel" + 0.064*"espionage" + 0.013*"comedy" + 0.013*"murder"
+Topic: 1 is
+0.236*"zombies" + 0.085*"zombie" + 0.085*"not funny" + 0.085*"motorcycle" + 0.047*"remake" + 0.047*"directorial debut" + 0.047*"nudity (topless - brief)" + 0.047*"buddy movie" + 0.047*"england" + 0.047*"murder"
+Topic: 2 is
+0.147*"court" + 0.147*"terrorism" + 0.030*"comedy" + 0.029*"espionage" + 0.029*"murder" + 0.029*"motorcycle" + 0.029*"not funny" + 0.029*"england" + 0.029*"buddy movie" + 0.029*"action"
+Topic: 3 is
+0.155*"cool" + 0.155*"nudity (topless - notable)" + 0.086*"action" + 0.086*"over the top" + 0.086*"hacking" + 0.086*"hackers" + 0.017*"comedy" + 0.017*"espionage" + 0.017*"murder" + 0.017*"motorcycle"

@@ -1,114 +1,102 @@
-For genre: Action, output is :
+For genre: Drama, output is :
 
 The 1th concept is: 
                                      Tag	         Weight	
-                              comic book	  2.71555596015	
-                               superhero	  2.09142940208	
-                                    dark	 0.978985558365	
-                              bad acting	 0.973405539005	
-                                  marvel	 0.963257473849	
-                   heroine in tight suit	 0.959185000287	
-                                  action	 0.600685656819	
-                                  remake	 0.418934304879	
-                                  zombie	 0.416851561013	
-              nudity (topless - notable)	 0.410124400114	
-                                    cool	 0.408791655587	
-                                 england	 0.408502562607	
-                               not funny	 0.405344802862	
-                       directorial debut	 0.397023669361	
-                                  comedy	 0.394586528887	
-                                 hackers	 0.393498420547	
-                                  murder	 0.392733013905	
-                            over the top	  0.39131549118	
-                                   court	 0.391280508485	
-                                 zombies	 0.388719323381	
-                             buddy movie	 0.388143516857	
-                                 hacking	  0.38529313175	
-                nudity (topless - brief)	  0.38164968998	
-                              motorcycle	 0.381322328867	
-                               espionage	 0.374282365666	
-                               terrorism	  0.36865655209	
+                                 zombies	  3.97828922875	
+                                  zombie	  1.58382639592	
+                                  remake	 0.980709966185	
+                nudity (topless - brief)	 0.980173689592	
+                       directorial debut	 0.969697123291	
+                                  action	 0.716742994368	
+                            over the top	 0.448805694409	
+                                    wwii	 0.427555786993	
+                          dumb but funny	 0.425474703177	
+                            world war ii	 0.406515798901	
+                             interesting	  0.40450730926	
+                             predictable	 0.399767040914	
+                               musicians	 0.397679769738	
+                           nudity (rear)	 0.397388258705	
+                           san francisco	 0.396225754688	
+              nudity (topless - notable)	 0.393355218323	
+                                 hacking	 0.387327924902	
+                                  boxing	 0.387200190355	
+                                    cool	  0.37664115017	
+                          best war films	 0.376289168236	
+                                     war	 0.373507673695	
+                                 hackers	 0.373178012915	
+                               pointless	 0.361111235459	
 The 2th concept is: 
                                      Tag	         Weight	
-                              motorcycle	   3.8899250579	
-                               terrorism	  2.08760355335	
-                                   court	  2.07579460138	
-                                  marvel	 0.434824063203	
-                                 zombies	   0.4310847099	
-                                  murder	  0.41581173758	
-                            over the top	 0.400527179539	
-                                 hacking	 0.399242978115	
-                               superhero	 0.396897822072	
-                                 hackers	 0.396202552714	
-                   heroine in tight suit	 0.394774752568	
-                                    cool	 0.392773122866	
-                                 england	 0.390458970921	
-                             buddy movie	 0.386516744091	
-                               espionage	 0.385986131788	
-                                  zombie	 0.385685183159	
-                                    dark	 0.381453695792	
-              nudity (topless - notable)	 0.380937693708	
-                       directorial debut	 0.380594869914	
-                nudity (topless - brief)	   0.3791815258	
-                                  comedy	 0.376894570734	
-                                  remake	 0.375149293459	
-                               not funny	 0.369560198376	
-                              comic book	 0.368421713397	
-                                  action	 0.361552082793	
-                              bad acting	 0.357418639776	
+                                   geeks	  3.78356422695	
+                                 violent	  3.47144661571	
+                                   court	  2.10999592324	
+                               terrorism	  2.06381205206	
+                               slapstick	   1.4403572232	
+                               hilarious	  1.41453569278	
+                                    gore	  1.40795136567	
+                                  remake	 0.438355225438	
+                              psychology	 0.433941855357	
+                       directorial debut	  0.41699302646	
+                                  zombie	 0.415226965344	
+                             atmospheric	 0.413801730865	
+                             cannibalism	 0.412658252105	
+                           serial killer	 0.408883630413	
+                             predictable	 0.405852415611	
+                        nudity (topless)	  0.40125440172	
+                nudity (topless - brief)	 0.394500252109	
+                                  action	 0.391388323893	
+                                   crime	  0.39055373348	
+                                  boring	 0.384975549169	
+                               pointless	 0.384899759304	
+                                 zombies	 0.378540470882	
+                         hannibal lecter	 0.372774110619	
 The 3th concept is: 
                                      Tag	         Weight	
-                                 zombies	  3.84262276069	
-                               espionage	  2.55812866404	
-              nudity (topless - notable)	   2.0637300123	
-                                    cool	  2.00514532856	
-                                  zombie	  1.55493116113	
-                                 hacking	  1.26067719385	
-                                 hackers	  1.21412910264	
-                            over the top	  1.18245879269	
-                                  remake	 0.980515933594	
-                nudity (topless - brief)	  0.97873736957	
-                       directorial debut	 0.964983577017	
-                                  action	 0.857833271506	
-                                    dark	 0.440710302243	
-                               terrorism	 0.434442517318	
-                                  murder	 0.415896890968	
-                               superhero	 0.407769748082	
-                              motorcycle	 0.405703334972	
-                              comic book	 0.402580291455	
-                                  marvel	 0.402054606218	
-                              bad acting	 0.388649615257	
-                                 england	 0.387330205351	
-                                  comedy	 0.377881948143	
-                                   court	 0.372092587474	
-                               not funny	 0.363640317616	
-                   heroine in tight suit	 0.360897304765	
-                             buddy movie	 0.351615801169	
+                               pointless	  3.24098935506	
+                              psychology	  1.93049452687	
+                             cannibalism	  1.92362498271	
+                           serial killer	  1.88997646384	
+                             predictable	  1.81722540231	
+                         hannibal lecter	  1.15449438845	
+                             atmospheric	  1.14529042135	
+                                  boring	  1.13176845442	
+                                 zombies	  0.40732026911	
+                                    gore	 0.406643727023	
+                       directorial debut	 0.405160812075	
+                               slapstick	 0.398201897881	
+                               hilarious	 0.395425374563	
+                               terrorism	 0.395047818077	
+                                   crime	 0.391015486664	
+                                  remake	 0.390986537837	
+                nudity (topless - brief)	 0.386175275285	
+                                 violent	 0.385103231879	
+                        nudity (topless)	  0.38299609915	
+                                  zombie	  0.37536139145	
+                                   court	 0.374703079754	
+                                  action	   0.3584010894	
+                                   geeks	 0.354661590468	
 The 4th concept is: 
                                      Tag	         Weight	
-                                  comedy	  2.47463522769	
-                                  murder	  2.09606321815	
-                               not funny	  1.98738182558	
-                             buddy movie	  1.87490981815	
-                                 england	  1.77970720345	
-                                  zombie	 0.453713724412	
-                                   court	 0.445181314136	
-                                    dark	 0.422235835658	
-                              comic book	 0.421655935942	
-                              motorcycle	 0.412724297084	
-                                  marvel	 0.394209663664	
-                                 hackers	 0.391996595653	
-                                    cool	 0.390188570131	
-                            over the top	 0.389503211146	
-                                 zombies	 0.388582002854	
-                                 hacking	 0.387077643233	
-              nudity (topless - notable)	 0.385777246909	
-                       directorial debut	 0.385015036921	
-                                  remake	 0.380493161232	
-                              bad acting	 0.376413820128	
-                               terrorism	  0.37545184552	
-                               espionage	 0.375281014165	
-                nudity (topless - brief)	 0.374272744911	
-                               superhero	 0.370895728905	
-                   heroine in tight suit	 0.370145979107	
-                                  action	 0.366885078842	
+                                   crime	  3.73853525132	
+                        nudity (topless)	  2.51929330129	
+                         hannibal lecter	 0.476448692593	
+                             atmospheric	  0.45228094444	
+                           serial killer	 0.446588054913	
+                                    gore	 0.429924784366	
+                              psychology	 0.422514088565	
+                                  boring	 0.421425186459	
+                               slapstick	 0.419744812198	
+                                  action	 0.417192099475	
+                             cannibalism	 0.416586064347	
+                             predictable	 0.409318902662	
+                                   geeks	 0.406943496654	
+                                 violent	 0.405060257298	
+                nudity (topless - brief)	 0.403656030137	
+                       directorial debut	 0.401330208177	
+                               pointless	 0.398504378287	
+                                  zombie	 0.396888378263	
+                                   court	 0.388754753752	
+                                  remake	 0.388401855558	
+                               terrorism	 0.386122161598	
+                                 zombies	 0.374798638471	
+                               hilarious	 0.361690252786	

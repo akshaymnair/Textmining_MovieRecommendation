@@ -41,3 +41,20 @@ def write_output_file(concepts, filename, entity):
 		for row in concept:
 			f.write('\n%40s\t%15s\t' %(row[0], row[1]))
 	f.close()
+
+def print_partition(partitions):
+	for patition_index, partition in partitions.iteritems():
+		print('\nThe partition ' + str(patition_index) + ' contains')
+		for entity, entity_values in partition.iteritems():
+			print('\n%s\t' %(entity))
+			for value in entity_values:
+				print('%40s\t' %(value))
+
+def write_partition_output_file(partitions, filename):
+	f = open(os.path.abspath(os.path.join(output_folder, filename)),'a')
+	for patition_index, partition in partitions.iteritems():
+		f.write('\nThe partition ' + str(patition_index) + ' contains')
+		for entity, entity_values in partition.iteritems():
+			f.write('\n%s\t' %(entity))
+			for value in entity_values:
+				f.write('%40s\t' %(value))

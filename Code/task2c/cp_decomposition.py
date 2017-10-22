@@ -21,10 +21,13 @@ def main():
 	latent_actor_semantics(decomposed[0])
 	latent_movie_semantics(decomposed[1])
 	latent_year_semantics(decomposed[2])
+	partition_components(decomposed)
 
 def latent_actor_semantics(actor_matrix):
 	imdb_actor_info = util.read_imdb_actor_info()
 	actor_list = imdb_actor_info.id.unique()
+	imdb_actor_info = util.read_imdb_actor_info()
+	actor_list = imdb_actor_info[imdb_actor_info['id'].isin(actor_list)]['name'].tolist()
 	concepts = []
 	for i in range(no_of_components):
 		concept = []
@@ -38,6 +41,7 @@ def latent_actor_semantics(actor_matrix):
 def latent_movie_semantics(movie_matrix):
 	mlmovies = util.read_mlmovies()
 	movies_list = mlmovies.movieid.unique()
+	movies_list = mlmovies[mlmovies['movieid'].isin(movies_list)]['moviename'].tolist()
 	concepts = []
 	for i in range(no_of_components):
 		concept = []
@@ -60,6 +64,33 @@ def latent_year_semantics(year_matrix):
 		concepts.append(concept)
 	util.print_output(concepts, 'Year')
 	util.write_output_file(concepts, output_file, 'Year')
+
+def partition_components(decomposed):
+	imdb_actor_info = util.read_imdb_actor_info()
+	actor_list = imdb_actor_info.id.unique()
+	imdb_actor_info = util.read_imdb_actor_info()
+	actor_list = imdb_actor_info[imdb_actor_info['id'].isin(actor_list)]['name'].tolist()
+	mlmovies = util.read_mlmovies()
+	movies_list = mlmovies.movieid.unique()
+	movies_list = mlmovies[mlmovies['movieid'].isin(movies_list)]['moviename'].tolist()
+	year_list = mlmovies.year.unique()
+	partitions = {1:{'actor': [], 'movie': [], 'year': []}, 
+				2:{'actor': [], 'movie': [], 'year': []}, 
+				3:{'actor': [], 'movie': [], 'year': []}, 
+				4:{'actor': [], 'movie': [], 'year': []}, 
+				5:{'actor': [], 'movie': [], 'year': []}
+				}
+	for j, actor_vec in enumerate(decomposed[0]):
+		partition_num = np.argmax(actor_vec)+1
+		partitions[partition_num]['actor'].append(actor_list[j])
+	for j, movie_vec in enumerate(decomposed[1]):
+		partition_num = np.argmax(movie_vec)+1
+		partitions[partition_num]['movie'].append(movies_list[j])
+	for j, year_vec in enumerate(decomposed[2]):
+		partition_num = np.argmax(year_vec)+1
+		partitions[partition_num]['year'].append(year_list[j])
+	util.print_partition(partitions)
+	util.write_partition_output_file(partitions, output_file)
 
 if __name__ == "__main__":
     main()

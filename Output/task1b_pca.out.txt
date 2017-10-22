@@ -72,7 +72,7 @@ The 1th concept is:
                       Andrieu, Sebastien	-0.00684088756947	
                          Mitchell, Radha	-0.0067656439201	
                         Edwards, Anthony	-0.00674061800549	
-                TachovskÃ¡, Helena-Lia	-0.00674061800548	
+                  TachovskÃ¡, Helena-Lia	-0.00674061800548	
                   Schwarzenegger, Arnold	-0.00674061800548	
                            Mussett, Tory	-0.00674061800548	
                            Weisz, Rachel	-0.00674061800548	
@@ -199,7 +199,7 @@ The 2th concept is:
                         Stewart, Kristen	-0.0112886039856	
                           Byrne, Gabriel	-0.0112886039856	
                              Diesel, Vin	-0.0112886039856	
-                TachovskÃ¡, Helena-Lia	-0.0112886039856	
+                  TachovskÃ¡, Helena-Lia	-0.0112886039856	
                             Oldman, Gary	-0.0112886039856	
                   Schwarzenegger, Arnold	-0.0112886039856	
                              Liotta, Ray	-0.0112886039856	
@@ -312,7 +312,7 @@ The 3th concept is:
                           Travolta, John	-0.0111963284744	
                            Weisz, Rachel	-0.0111963284744	
                         Edwards, Anthony	-0.0111963284744	
-                TachovskÃ¡, Helena-Lia	-0.0111963284744	
+                  TachovskÃ¡, Helena-Lia	-0.0111963284744	
                          Neri, Francesca	-0.0111963284744	
                            Mussett, Tory	-0.0111963284744	
                          Grammer, Kelsey	-0.0111963284744	
@@ -437,7 +437,7 @@ The 4th concept is:
                         Stewart, Kristen	-0.016087726223	
                              Diesel, Vin	-0.016087726223	
                            Foster, Jodie	-0.016087726223	
-                TachovskÃ¡, Helena-Lia	-0.016087726223	
+                  TachovskÃ¡, Helena-Lia	-0.016087726223	
                   Schwarzenegger, Arnold	-0.016087726223	
                           Byrne, Gabriel	-0.016087726223	
                          Grammer, Kelsey	-0.016087726223	

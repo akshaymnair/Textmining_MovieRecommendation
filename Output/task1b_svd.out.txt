@@ -6,119 +6,119 @@ The 1th concept is:
                            Polley, Sarah	 0.632455532034	
                          Jovovich, Milla	 0.316227766017	
                            Cross, Joseph	 0.316227766017	
-                         Romijn, Rebecca	-2.97074731604e-18	
-                          Dorff, Stephen	-9.48253960527e-19	
-                            Robbins, Tim	-9.12764592541e-19	
-                         Bright, Cameron	-6.32169307018e-19	
-                            Hawke, Ethan	-4.74126980263e-19	
-                       Cusick, Henry Ian	-4.5638229627e-19	
-                          Jackson, Roger	-1.8106890348e-19	
-                                 Li, Jet	5.72332622189e-20	
-                              Cook, A.J.	5.29970437667e-20	
-                         Ulliel, Gaspard	1.9077754073e-20	
-                           LaBeouf, Shia	1.88915736365e-20	
-                         Thompson, Tessa	1.43083155547e-20	
-                      Andrieu, Sebastien	1.25943824244e-20	
-                               Hu, Kelly	9.44578681826e-21	
-                           Curtis, Cliff	-1.42303286685e-21	
-                            Paxton, Bill	-9.26558325933e-22	
-                    Stahl-David, Michael	-7.11516433426e-22	
-                             Isitt, Kate	-6.74789200438e-22	
-                       Smith, Soloman K.	-5.53240553972e-22	
-                      Jackson, Samuel L.	-4.31704143274e-22	
-                            David, Keith	-3.43268415296e-22	
-                          Costner, Kevin	-2.28845610198e-22	
-                         Mitchell, Radha	-2.24929733479e-22	
-                       Campbell, Jeremie	-2.22248653414e-22	
-                      Washington, Isaiah	-2.15852071637e-22	
-                            Moore, Kenya	-1.71634207648e-22	
-                         Schreiber, Liev	-1.68697300109e-22	
-                          Belle, Camilla	-1.43901381091e-22	
-                      Downey Jr., Robert	-1.00891144032e-22	
-                            Miller, T.J.	-8.52641944371e-23	
-                          Chinlund, Nick	-6.73331031857e-23	
-                     Cook, Rachael Leigh	-5.68427962914e-23	
-                             Moore, Demi	-5.32018823666e-23	
-                         Toussaint, Beth	-5.04455720159e-23	
-                             Weber, Jake	-4.26320972186e-23	
-                               Ryan, Meg	-4.17853624109e-23	
-                         Phillippe, Ryan	3.93012230356e-23	
-                           Russell, Kurt	3.75028524436e-23	
-                        Turner, Frank C.	3.47073534971e-23	
-                       Rutherford, Kelly	-3.42701995393e-23	
-                            Burke, Billy	-3.36665515929e-23	
-                           Watson, Barry	-3.36303813439e-23	
-                           Brooks, Avery	-2.79441111414e-23	
-                  McCole Bartusiak, Skye	2.78955507246e-23	
-                         Forlani, Claire	2.37929494898e-23	
-                          Yoakam, Dwight	-2.3738113606e-23	
-                     Fishburne, Laurence	-2.24443677286e-23	
-                           Ruffalo, Mark	-2.08926812055e-23	
-                        Palmer, Gretchen	-2.07168169074e-23	
-                       Slater, Christian	-2.01410279136e-23	
-                           Cooper, Chris	1.96506115178e-23	
-                               Daly, Tim	1.87514262218e-23	
-                             Lane, Diane	-1.83623281123e-23	
-                           Reeves, Keanu	1.73536767486e-23	
-                          Lucas, Jessica	-1.71350997696e-23	
-                             Larter, Ali	-1.68983481712e-23	
-                            Bello, Maria	-1.68332757964e-23	
-                         Moore, Julianne	-1.39720555707e-23	
-                                Gong, Li	1.39477753623e-23	
-                           Koteas, Elias	-1.3928454137e-23	
-                           Phifer, Mekhi	-1.37238557724e-23	
-                          Cox, Courteney	1.31004076785e-23	
-                           Burns, Edward	-1.25268196446e-23	
-                             Liotta, Ray	1.25009508145e-23	
-                            Hanks, Colin	1.18964747449e-23	
-                         Landes, Michael	-1.1869056803e-23	
-                           Mussett, Tory	1.15691178324e-23	
-                                 Aaliyah	-1.04463406027e-23	
-                           Wong, Russell	-1.03584084537e-23	
-                     Dhavernas, Caroline	1.00794386761e-23	
-                    McConaughey, Matthew	9.82530575891e-24	
-                        Hopkins, Anthony	9.37571311091e-24	
-                             Diesel, Vin	-9.31470371381e-24	
-                           Foster, Jodie	9.29851690819e-24	
-                        Whitaker, Forest	-9.18116405613e-24	
-                             Bell, Jamie	8.67683837428e-24	
-                        Deschanel, Emily	-8.56754988482e-24	
-                          Bilson, Rachel	-8.44917408558e-24	
-                        Edwards, Anthony	7.93098316327e-24	
-                          Travolta, John	-7.91270453534e-24	
-                         Nielsen, Connie	7.37680979076e-24	
-                            Blair, Selma	-7.28924891447e-24	
-                           Thomas, Aaran	7.08736404006e-24	
-                              Reid, Tara	-6.98602778535e-24	
-                             Luke, Derek	6.97388768114e-24	
-                       Banderas, Antonio	-6.86192788619e-24	
-                           Linney, Laura	-6.26340982229e-24	
-                            Rhames, Ving	-6.12077603742e-24	
-                             Kilmer, Val	5.94823737245e-24	
-                           Dourdan, Gary	-5.9345284015e-24	
-                  Schwarzenegger, Arnold	-5.63278272372e-24	
-                           Kinnear, Greg	5.53072598354e-24	
-                           Bon Jovi, Jon	5.03971933803e-24	
-                            Hauser, Cole	-4.59058202806e-24	
-                           Weisz, Rachel	-4.57461859079e-24	
-                         De Niro, Robert	-4.22458704279e-24	
-                        Stewart, Kristen	-4.17560654819e-24	
-                     Christensen, Hayden	3.68840489538e-24	
-                                     DMX	-3.64462445723e-24	
-                         Hounsou, Djimon	3.54368202003e-24	
-                          Keitel, Harvey	-3.43096394309e-24	
-                            Oldman, Gary	3.35981289202e-24	
-                         Flanagan, Tommy	-3.13170491114e-24	
-                          Cassidy, Katie	2.76536299177e-24	
-                        El-Balawi, Beans	2.51985966901e-24	
-                         Grammer, Kelsey	2.45893659692e-24	
-                          Byrne, Gabriel	-2.42974963816e-24	
-                         Neri, Francesca	2.36245468002e-24	
-                           Caplan, Lizzy	1.84420244769e-24	
-                TachovskÃ¡, Helena-Lia	1.84357532785e-24	
-                          Paetkau, David	-1.82231222862e-24	
-                       Anderson, Anthony	1.77184101002e-24	
-                        Gyllenhaal, Jake	1.38268149589e-24	
+                         Romijn, Rebecca	-1.36746195715e-17	
+                          Dorff, Stephen	-4.36489906005e-18	
+                            Robbins, Tim	-4.20153827759e-18	
+                         Bright, Cameron	-2.9099327067e-18	
+                            Hawke, Ethan	-2.18244953002e-18	
+                       Cusick, Henry Ian	-2.10076913879e-18	
+                          Jackson, Roger	-8.33352112736e-19	
+                                 Li, Jet	3.2338522096e-22	
+                              Cook, A.J.	2.99449306999e-22	
+                         Ulliel, Gaspard	1.07795073653e-22	
+                           LaBeouf, Shia	1.06743097945e-22	
+                         Thompson, Tessa	8.08463052401e-23	
+                      Andrieu, Sebastien	7.11620652966e-23	
+                               Hu, Kelly	5.33715489724e-23	
+                           Curtis, Cliff	8.51041816518e-24	
+                      Jackson, Samuel L.	-8.02497710741e-24	
+                            Paxton, Bill	5.54129399373e-24	
+                    Stahl-David, Michael	4.25520908259e-24	
+                       Campbell, Jeremie	-4.13139503891e-24	
+                      Downey Jr., Robert	4.12780834265e-24	
+                             Isitt, Kate	4.03520636041e-24	
+                      Washington, Isaiah	-4.01248855371e-24	
+                       Smith, Soloman K.	3.30850132922e-24	
+                          Belle, Camilla	-2.67499236914e-24	
+                             Moore, Demi	2.18034087385e-24	
+                         Toussaint, Beth	2.06390417133e-24	
+                            David, Keith	2.05292921088e-24	
+                            Miller, T.J.	-1.58498179622e-24	
+                       Rutherford, Kelly	1.43009085265e-24	
+                           Watson, Barry	1.37593611422e-24	
+                          Costner, Kevin	1.36861947392e-24	
+                         Mitchell, Radha	1.3450687868e-24	
+                             Lane, Diane	1.24130323523e-24	
+                          Yoakam, Dwight	-1.13417356603e-24	
+                     Cook, Rachael Leigh	-1.05665453081e-24	
+                           Russell, Kurt	-1.04900917017e-24	
+                            Moore, Kenya	1.02646460544e-24	
+                         Schreiber, Liev	1.00880158929e-24	
+                            Blair, Selma	9.8572929514e-25	
+                  McCole Bartusiak, Skye	-9.51855575208e-25	
+                     Dhavernas, Caroline	9.43632101239e-25	
+                        Turner, Frank C.	-8.62987377483e-25	
+                        Palmer, Gretchen	8.4989401833e-25	
+                       Slater, Christian	8.32705231465e-25	
+                             Weber, Jake	-7.92490898108e-25	
+                         Forlani, Claire	-7.60656616668e-25	
+                          Lucas, Jessica	7.15045426327e-25	
+                           Phifer, Mekhi	7.07994924124e-25	
+                           Thomas, Aaran	6.70434790013e-25	
+                          Chinlund, Nick	6.53382399713e-25	
+                        Whitaker, Forest	6.20651617615e-25	
+                         Landes, Michael	-5.67086783014e-25	
+                               Daly, Tim	-5.24504585087e-25	
+                                     DMX	4.9286464757e-25	
+                                Gong, Li	-4.75927787604e-25	
+                           Bon Jovi, Jon	4.7181605062e-25	
+                           Brooks, Avery	-4.66290149968e-25	
+                           Reeves, Keanu	-4.31493688742e-25	
+                           Wong, Russell	4.24947009165e-25	
+                            Rhames, Ving	4.13767745077e-25	
+                            Hanks, Colin	-3.80328308334e-25	
+                          Travolta, John	-3.78057855343e-25	
+                        Deschanel, Emily	3.57522713163e-25	
+                       Banderas, Antonio	3.53997462062e-25	
+                             Liotta, Ray	-3.49669723392e-25	
+                         Hounsou, Djimon	3.35217395006e-25	
+                          Byrne, Gabriel	3.28576431713e-25	
+                            Burke, Billy	3.26691199856e-25	
+                           Foster, Jodie	-3.17285191736e-25	
+                            Oldman, Gary	3.14544033746e-25	
+                            Hauser, Cole	3.10325808808e-25	
+                           Mussett, Tory	-2.87662459161e-25	
+                           Dourdan, Gary	-2.83543391507e-25	
+                        Hopkins, Anthony	-2.62252292544e-25	
+                        Edwards, Anthony	-2.53552205556e-25	
+                          Paetkau, David	2.46432323785e-25	
+                             Larter, Ali	-2.39510432086e-25	
+                             Luke, Derek	-2.37963893802e-25	
+                           Weisz, Rachel	2.35998308041e-25	
+                        El-Balawi, Beans	2.3590802531e-25	
+                         Moore, Julianne	-2.33145074984e-25	
+                         Neri, Francesca	2.23478263338e-25	
+                     Fishburne, Laurence	2.17794133238e-25	
+                             Bell, Jamie	-2.15746844371e-25	
+                           Kinnear, Greg	1.97953114088e-25	
+                             Kilmer, Val	-1.90164154167e-25	
+                          Keitel, Harvey	1.76998731031e-25	
+                       Anderson, Anthony	1.67608697503e-25	
+                            Bello, Maria	1.63345599928e-25	
+                             Diesel, Vin	-1.55430049989e-25	
+                         Nielsen, Connie	1.41725852747e-25	
+                         Phillippe, Ryan	1.37395618226e-25	
+                          Bilson, Rachel	-1.19755216043e-25	
+                              Reid, Tara	-1.16572537492e-25	
+                          Cassidy, Katie	9.8976557044e-26	
+                  Schwarzenegger, Arnold	-7.98368106952e-26	
+                           Burns, Edward	-7.76383008759e-26	
+                     Christensen, Hayden	7.08629263735e-26	
+                           Cooper, Chris	6.86978091128e-26	
+                  TachovskÃ¡, Helena-Lia	6.59843713626e-26	
+                         De Niro, Robert	-5.98776080214e-26	
+                        Gyllenhaal, Jake	4.9488278522e-26	
+                         Grammer, Kelsey	4.72419509157e-26	
+                          Cox, Courteney	4.57985394085e-26	
+                           Linney, Laura	-3.88191504379e-26	
+                           Caplan, Lizzy	3.54314631868e-26	
+                               Ryan, Meg	3.44099436463e-26	
+                    McConaughey, Matthew	3.43489045564e-26	
+                        Stewart, Kristen	-2.58794336253e-26	
+                         Flanagan, Tommy	-1.9409575219e-26	
+                           Ruffalo, Mark	1.72049718231e-26	
+                           Koteas, Elias	1.14699812154e-26	
+                                 Aaliyah	8.60248591157e-27	
 The 2th concept is: 
                                    Actor	         Weight	
                          Romijn, Rebecca	 0.872291512822	
@@ -126,353 +126,353 @@ The 2th concept is:
                             Robbins, Tim	 0.268012295418	
                          Bright, Cameron	 0.185621953843	
                             Hawke, Ethan	 0.139216465383	
-                       Cusick, Henry Ian	 0.134006147709	
                           Jackson, Roger	 0.134006147709	
-                           Phifer, Mekhi	-8.27465428189e-08	
-                  McCole Bartusiak, Skye	6.38083875917e-08	
-                           Thomas, Aaran	-5.14362948438e-08	
-                         Forlani, Claire	-4.51782319703e-08	
-                        Turner, Frank C.	4.34833872268e-08	
-                            Blair, Selma	-4.25442790387e-08	
-                     Dhavernas, Caroline	-4.15007072617e-08	
-                       Banderas, Antonio	-4.13732714094e-08	
-                                Gong, Li	3.19041937959e-08	
-                           Weisz, Rachel	-2.75821809396e-08	
-                         Hounsou, Djimon	-2.57181474219e-08	
-                          Yoakam, Dwight	2.53955232565e-08	
-                            Hanks, Colin	-2.25891159851e-08	
-                             Lane, Diane	2.2580124385e-08	
-                           Reeves, Keanu	2.17416936134e-08	
-                                     DMX	-2.12721395193e-08	
-                           Foster, Jodie	2.12694625306e-08	
-                           Bon Jovi, Jon	-2.07503536309e-08	
-                          Keitel, Harvey	-2.06866357047e-08	
-                         Phillippe, Ryan	1.89524419077e-08	
-                           Burns, Edward	-1.73582068085e-08	
-                         Neri, Francesca	-1.71454316146e-08	
-                               Ryan, Meg	1.63219898788e-08	
-                         Nielsen, Connie	-1.6239663977e-08	
-                             Luke, Derek	1.59520968979e-08	
-                      Downey Jr., Robert	1.51433253676e-08	
-                        Edwards, Anthony	-1.50594106568e-08	
-                           Mussett, Tory	1.44944624089e-08	
-                             Larter, Ali	1.43055921515e-08	
-                          Byrne, Gabriel	-1.41814263462e-08	
-                            Oldman, Gary	-1.38335690872e-08	
-                       Anderson, Anthony	-1.28590737109e-08	
-                         Landes, Michael	1.26977616283e-08	
-                           Brooks, Avery	1.24180383503e-08	
-                             Kilmer, Val	-1.12945579926e-08	
-                        Whitaker, Forest	1.12900621925e-08	
-                             Bell, Jamie	1.08708468067e-08	
-                          Paetkau, David	-1.06360697597e-08	
-                        El-Balawi, Beans	-1.03751768154e-08	
-                           Russell, Kurt	-1.02724368366e-08	
-                           Cooper, Chris	9.47622095386e-09	
-                           Kinnear, Greg	8.89839160165e-09	
-                           Linney, Laura	-8.67910340427e-09	
-                          Travolta, John	8.46517441884e-09	
-                           Ruffalo, Mark	8.1609949394e-09	
-                     Christensen, Hayden	-8.11983198851e-09	
-                             Moore, Demi	7.60130602911e-09	
-                         Toussaint, Beth	7.57166268382e-09	
-                            Rhames, Ving	7.52670812833e-09	
-                          Bilson, Rachel	7.15279607574e-09	
-                      Jackson, Samuel L.	6.59593893093e-09	
-                           Dourdan, Gary	6.34888081413e-09	
-                          Cox, Courteney	6.3174806359e-09	
-                         Moore, Julianne	6.20901917515e-09	
-                        Stewart, Kristen	-5.78606893618e-09	
-                            Hauser, Cole	5.64503109625e-09	
-                           Koteas, Elias	5.44066329293e-09	
-                         Grammer, Kelsey	-5.41322132568e-09	
-                               Daly, Tim	-5.1362184183e-09	
-                           Watson, Barry	5.04777512255e-09	
-                  Schwarzenegger, Arnold	4.76853071716e-09	
-                    McConaughey, Matthew	4.73811047693e-09	
-                          Cassidy, Katie	4.44919580082e-09	
-                         Flanagan, Tommy	-4.33955170213e-09	
-                             Diesel, Vin	4.13934611677e-09	
-                                 Aaliyah	4.0804974697e-09	
-                           Caplan, Lizzy	-4.05991599426e-09	
-                         De Niro, Robert	3.57639803787e-09	
-                             Liotta, Ray	-3.4241456122e-09	
-                       Campbell, Jeremie	3.39570182089e-09	
-                      Washington, Isaiah	3.29796946546e-09	
-                          Chinlund, Nick	3.19625103226e-09	
-                              Reid, Tara	3.10450958758e-09	
-                TachovskÃ¡, Helena-Lia	2.96613053388e-09	
-                        Palmer, Gretchen	2.86890687496e-09	
-                        Hopkins, Anthony	-2.56810920915e-09	
-                        Gyllenhaal, Jake	2.22459790041e-09	
-                       Rutherford, Kelly	2.21310451076e-09	
-                          Belle, Camilla	2.19864631031e-09	
-                       Slater, Christian	2.11534422403e-09	
-                            Burke, Billy	1.59812551613e-09	
-                           Wong, Russell	1.43445343748e-09	
-                            Miller, T.J.	1.30273806324e-09	
-                          Lucas, Jessica	1.10655225527e-09	
-                     Fishburne, Laurence	1.06541701076e-09	
-                     Cook, Rachael Leigh	8.68492042163e-10	
-                            Bello, Maria	7.99062758066e-10	
-                             Weber, Jake	6.51369031622e-10	
-                        Deschanel, Emily	5.53276127637e-10	
-                           Curtis, Cliff	-3.40889192038e-10	
-                            Paxton, Bill	-2.22809768969e-10	
-                    Stahl-David, Michael	-1.70444596019e-10	
-                             Isitt, Kate	-1.51980653305e-10	
-                       Smith, Soloman K.	-1.28672003641e-10	
-                            David, Keith	-8.27638566925e-11	
-                                 Li, Jet	6.26691887412e-11	
-                              Cook, A.J.	5.80306210007e-11	
-                          Costner, Kevin	-5.5175904459e-11	
-                         Mitchell, Radha	-5.06602177662e-11	
-                            Moore, Kenya	-4.13819283464e-11	
-                         Schreiber, Liev	-3.79952428686e-11	
-                         Ulliel, Gaspard	2.08897293997e-11	
-                           LaBeouf, Shia	2.06858661262e-11	
-                         Thompson, Tessa	1.56672971853e-11	
-                      Andrieu, Sebastien	1.3790577562e-11	
-                               Hu, Kelly	1.03429330631e-11	
-                             Texada, Tia	8.54340659455e-19	
-                           Polley, Sarah	8.54340659455e-19	
-                         Jovovich, Milla	4.27170329727e-19	
-                           Cross, Joseph	4.27170329727e-19	
+                       Cusick, Henry Ian	 0.134006147709	
+                          Yoakam, Dwight	-2.64114428727e-08	
+                           Thomas, Aaran	2.51122110825e-08	
+                           Kinnear, Greg	-1.93138355044e-08	
+                         Forlani, Claire	1.91599556634e-08	
+                            Blair, Selma	-1.81944186384e-08	
+                        Turner, Frank C.	1.80933342874e-08	
+                         Nielsen, Connie	-1.51797476628e-08	
+                               Ryan, Meg	1.44745659991e-08	
+                           Russell, Kurt	-1.37069429652e-08	
+                         Landes, Michael	-1.32057214363e-08	
+                         Hounsou, Djimon	1.25561055413e-08	
+                           Burns, Edward	-1.21572770649e-08	
+                     Dhavernas, Caroline	-1.20975009445e-08	
+                          Cassidy, Katie	-9.6569177522e-09	
+                            Hanks, Colin	9.5799778317e-09	
+                                     DMX	-9.09720931922e-09	
+                           Reeves, Keanu	9.04666714371e-09	
+                             Lane, Diane	-8.84538274151e-09	
+                          Travolta, John	-8.8038142909e-09	
+                  McCole Bartusiak, Skye	8.38617362666e-09	
+                         Neri, Francesca	8.3707370275e-09	
+                     Christensen, Hayden	-7.58987383142e-09	
+                           Ruffalo, Mark	7.23728299954e-09	
+                               Daly, Tim	-6.85347148258e-09	
+                           Phifer, Mekhi	6.72837642829e-09	
+                           Dourdan, Gary	-6.60286071817e-09	
+                  TachovskÃ¡, Helena-Lia	-6.43794516814e-09	
+                        Edwards, Anthony	6.3866518878e-09	
+                       Anderson, Anthony	6.27805277063e-09	
+                           Linney, Laura	-6.07863853246e-09	
+                          Byrne, Gabriel	-6.06480621281e-09	
+                           Bon Jovi, Jon	-6.04875047224e-09	
+                           Mussett, Tory	6.03111142914e-09	
+                         Phillippe, Ryan	5.24465952226e-09	
+                         Grammer, Kelsey	-5.05991588761e-09	
+                        Gyllenhaal, Jake	-4.8284588761e-09	
+                           Koteas, Elias	4.82485533303e-09	
+                             Kilmer, Val	4.78998891585e-09	
+                             Liotta, Ray	-4.56898098838e-09	
+                          Paetkau, David	-4.54860465961e-09	
+                             Bell, Jamie	4.52333357185e-09	
+                        Whitaker, Forest	-4.42269137075e-09	
+                                Gong, Li	4.19308681333e-09	
+                        Stewart, Kristen	-4.05242568831e-09	
+                            Oldman, Gary	-4.03250031483e-09	
+                           Brooks, Avery	4.01200391783e-09	
+                           Caplan, Lizzy	-3.79493691571e-09	
+                                 Aaliyah	3.61864149977e-09	
+                        Hopkins, Anthony	-3.42673574129e-09	
+                       Banderas, Antonio	3.36418821415e-09	
+                         Flanagan, Tommy	-3.03931926623e-09	
+                        El-Balawi, Beans	-3.02437523612e-09	
+                            Rhames, Ving	-2.94846091384e-09	
+                      Jackson, Samuel L.	2.88292691647e-09	
+                           Foster, Jodie	2.79539120889e-09	
+                           Cooper, Chris	2.62232976113e-09	
+                           Weisz, Rachel	2.24279214276e-09	
+                            Hauser, Cole	-2.21134568538e-09	
+                      Downey Jr., Robert	-2.12322328991e-09	
+                             Luke, Derek	2.09654340666e-09	
+                         Moore, Julianne	2.00600195892e-09	
+                          Cox, Courteney	1.74821984075e-09	
+                          Chinlund, Nick	-1.69224901607e-09	
+                          Keitel, Harvey	1.68209410707e-09	
+                       Campbell, Jeremie	1.48417992984e-09	
+                      Washington, Isaiah	1.44146345823e-09	
+                             Diesel, Vin	1.33733463928e-09	
+                    McConaughey, Matthew	1.31116488056e-09	
+                         Toussaint, Beth	-1.06161164496e-09	
+                              Reid, Tara	1.00300097946e-09	
+                          Belle, Camilla	9.60975638823e-10	
+                             Moore, Demi	-9.45086652328e-10	
+                            Burke, Billy	-8.46124508034e-10	
+                           Watson, Barry	-7.07741096637e-10	
+                       Rutherford, Kelly	6.10587788209e-10	
+                            Miller, T.J.	5.6939560341e-10	
+                     Fishburne, Laurence	-5.64083005356e-10	
+                            Bello, Maria	-4.23062254017e-10	
+                             Larter, Ali	4.1238630463e-10	
+                     Cook, Rachael Leigh	3.7959706894e-10	
+                        Palmer, Gretchen	-3.26644680539e-10	
+                          Lucas, Jessica	3.05293894102e-10	
+                             Weber, Jake	2.84697801705e-10	
+                          Bilson, Rachel	2.06193152315e-10	
+                           Wong, Russell	-1.63322340269e-10	
+                        Deschanel, Emily	1.52646947051e-10	
+                  Schwarzenegger, Arnold	1.37462101543e-10	
+                         De Niro, Robert	1.03096576158e-10	
+                           Curtis, Cliff	-5.1724074343e-11	
+                            Paxton, Bill	-3.45230755775e-11	
+                    Stahl-David, Michael	-2.58620371715e-11	
+                       Smith, Soloman K.	-1.62828526401e-11	
+                             Isitt, Kate	-1.49394011687e-11	
+                            David, Keith	-1.30062307143e-11	
+                       Slater, Christian	-1.13607664643e-11	
+                          Costner, Kevin	-8.67082047615e-12	
+                                 Li, Jet	-8.48402259748e-12	
+                              Cook, A.J.	-7.85606306506e-12	
+                            Moore, Kenya	-6.50311535716e-12	
+                         Mitchell, Radha	-4.97980038958e-12	
+                         Schreiber, Liev	-3.73472039512e-12	
+                         Ulliel, Gaspard	-2.82800753357e-12	
+                           LaBeouf, Shia	-2.80040891517e-12	
+                         Thompson, Tessa	-2.12100564937e-12	
+                      Andrieu, Sebastien	-1.86693927794e-12	
+                               Hu, Kelly	-1.40020445758e-12	
+                             Texada, Tia	3.93308936076e-18	
+                           Polley, Sarah	3.93308936076e-18	
+                         Jovovich, Milla	1.96654468038e-18	
+                           Cross, Joseph	1.96654468038e-18	
 The 3th concept is: 
                                    Actor	         Weight	
-                                 Li, Jet	 0.671811347205	
-                              Cook, A.J.	 0.622086073561	
-                         Ulliel, Gaspard	 0.223937115735	
-                           LaBeouf, Shia	 0.221751705976	
-                         Thompson, Tessa	 0.167952836801	
-                      Andrieu, Sebastien	  0.14783447065	
-                               Hu, Kelly	 0.110875852988	
-                     Dhavernas, Caroline	0.000148799920828	
-                            Blair, Selma	9.99581645565e-05	
-                           Brooks, Avery	-9.75800408056e-05	
-                        Turner, Frank C.	-9.33179434482e-05	
-                         Forlani, Claire	8.73217504946e-05	
-                           Phifer, Mekhi	8.45229150164e-05	
-                         Nielsen, Connie	8.25611830753e-05	
-                          Chinlund, Nick	8.15668256863e-05	
-                           Kinnear, Greg	8.00574041226e-05	
-                           Bon Jovi, Jon	7.43999604141e-05	
-                           Thomas, Aaran	7.08559432154e-05	
-                                     DMX	4.99790822783e-05	
-                            Oldman, Gary	4.95999736094e-05	
-                         Moore, Julianne	-4.87900204028e-05	
-                           Reeves, Keanu	-4.66589717241e-05	
-                         Phillippe, Ryan	-4.50472675565e-05	
-                            Hanks, Colin	4.36608752473e-05	
-                       Banderas, Antonio	4.22614575082e-05	
-                     Christensen, Hayden	4.12805915376e-05	
-                            Burke, Billy	4.07834128432e-05	
-                          Cassidy, Katie	4.00287020613e-05	
-                        El-Balawi, Beans	3.7199980207e-05	
-                      Downey Jr., Robert	-3.66853637302e-05	
-                         Hounsou, Djimon	3.54279716077e-05	
-                             Larter, Ali	3.46577739033e-05	
-                          Byrne, Gabriel	3.33193881855e-05	
-                             Diesel, Vin	-3.25266802685e-05	
-                           Mussett, Tory	-3.11059811494e-05	
-                           Russell, Kurt	3.05183659785e-05	
-                        Edwards, Anthony	2.91072501649e-05	
-                           Weisz, Rachel	2.81743050055e-05	
-                         Grammer, Kelsey	2.75203943584e-05	
-                     Fishburne, Laurence	2.71889418954e-05	
-                TachovskÃ¡, Helena-Lia	2.66858013742e-05	
-                      Jackson, Samuel L.	-2.64922444272e-05	
-                          Paetkau, David	2.49895411391e-05	
-                              Reid, Tara	-2.43950102014e-05	
-                         Neri, Francesca	2.36186477385e-05	
-                             Bell, Jamie	-2.3329485862e-05	
-                           Cooper, Chris	-2.25236337782e-05	
-                             Kilmer, Val	2.18304376237e-05	
-                          Keitel, Harvey	2.11307287541e-05	
-                           Caplan, Lizzy	2.06402957688e-05	
-                            Bello, Maria	2.03917064216e-05	
-                        Gyllenhaal, Jake	2.00143510306e-05	
-                               Ryan, Meg	-1.90138323402e-05	
-                         Toussaint, Beth	-1.83426818651e-05	
-                             Moore, Demi	-1.81930778223e-05	
-                  McCole Bartusiak, Skye	-1.81707245452e-05	
-                       Anderson, Anthony	1.77139858039e-05	
-                          Bilson, Rachel	1.73288869516e-05	
-                               Daly, Tim	1.52591829893e-05	
-                          Cox, Courteney	-1.50157558522e-05	
-                             Lane, Diane	-1.45277395885e-05	
-                       Campbell, Jeremie	-1.36386591178e-05	
-                      Washington, Isaiah	-1.32461222136e-05	
-                           Watson, Barry	-1.22284545767e-05	
-                  Schwarzenegger, Arnold	1.15525913011e-05	
-                    McConaughey, Matthew	-1.12618168891e-05	
-                             Liotta, Ray	1.01727886595e-05	
-                           Burns, Edward	1.00004132758e-05	
-                           Ruffalo, Mark	-9.50691617009e-06	
-                                Gong, Li	-9.08536227262e-06	
-                          Belle, Camilla	-8.83074814241e-06	
-                         De Niro, Robert	8.66444347582e-06	
-                          Yoakam, Dwight	-8.08478075993e-06	
-                        Hopkins, Anthony	7.62959149464e-06	
-                        Whitaker, Forest	-7.26386979425e-06	
-                        Palmer, Gretchen	-6.81134575988e-06	
-                           Koteas, Elias	-6.33794411339e-06	
-                           Foster, Jodie	-6.05690818175e-06	
-                            Miller, T.J.	-5.23237943187e-06	
-                           Linney, Laura	5.00020663792e-06	
-                            Rhames, Ving	-4.84257986283e-06	
-                                 Aaliyah	-4.75345808504e-06	
-                       Slater, Christian	-4.60119871552e-06	
-                             Luke, Derek	-4.54268113631e-06	
-                         Landes, Michael	-4.04239037997e-06	
-                       Rutherford, Kelly	-3.67177737646e-06	
-                            Hauser, Cole	-3.63193489712e-06	
-                     Cook, Rachael Leigh	-3.48825295458e-06	
-                           Wong, Russell	-3.40567287994e-06	
-                        Stewart, Kristen	3.33347109195e-06	
-                          Travolta, John	-2.69492691998e-06	
-                             Weber, Jake	-2.61618971594e-06	
-                         Flanagan, Tommy	2.50010331896e-06	
-                           Dourdan, Gary	-2.02119518998e-06	
-                          Lucas, Jessica	-1.83588868821e-06	
-                        Deschanel, Emily	-9.17944344103e-07	
-                           Curtis, Cliff	1.6000439922e-07	
-                            Paxton, Bill	1.02326332783e-07	
-                             Isitt, Kate	9.69260861653e-08	
-                    Stahl-David, Michael	8.00021996099e-08	
-                       Smith, Soloman K.	7.06077364524e-08	
-                            David, Keith	3.74347210838e-08	
-                         Mitchell, Radha	3.23086953886e-08	
-                          Costner, Kevin	2.49564807225e-08	
-                         Schreiber, Liev	2.42315215392e-08	
-                            Moore, Kenya	1.87173605422e-08	
-                         Romijn, Rebecca	-3.86967493043e-11	
-                          Dorff, Stephen	-1.23518907552e-11	
-                            Robbins, Tim	-1.18896084284e-11	
-                         Bright, Cameron	-8.23459372046e-12	
-                            Hawke, Ethan	-6.17594537762e-12	
-                          Jackson, Roger	-5.94480433907e-12	
-                       Cusick, Henry Ian	-5.94480421418e-12	
-                             Texada, Tia	1.0272210225e-21	
-                           Polley, Sarah	1.0272210225e-21	
-                         Jovovich, Milla	5.13610511249e-22	
-                           Cross, Joseph	5.13610511249e-22	
+                                 Li, Jet	 0.671811341196	
+                              Cook, A.J.	 0.622086067996	
+                         Ulliel, Gaspard	 0.223937113732	
+                           LaBeouf, Shia	 0.221751703992	
+                         Thompson, Tessa	 0.167952835299	
+                      Andrieu, Sebastien	 0.147834469328	
+                               Hu, Kelly	 0.110875851996	
+                          Yoakam, Dwight	-0.000172260434369	
+                           Phifer, Mekhi	-0.00017127519933	
+                        Turner, Frank C.	0.000138706549204	
+                           Burns, Edward	0.000103197146057	
+                         Landes, Michael	-8.61302171844e-05	
+                       Banderas, Antonio	-8.56375996651e-05	
+                           Reeves, Keanu	6.93532746022e-05	
+                            Blair, Selma	6.92946473918e-05	
+                           Brooks, Avery	5.8497579416e-05	
+                          Travolta, John	-5.74201447896e-05	
+                           Weisz, Rachel	-5.70917331101e-05	
+                          Chinlund, Nick	5.58706680799e-05	
+                           Linney, Laura	5.15985730283e-05	
+                         Phillippe, Ryan	4.98854015382e-05	
+                           Mussett, Tory	4.62355164015e-05	
+                           Dourdan, Gary	-4.30651085922e-05	
+                          Keitel, Harvey	-4.28187998326e-05	
+                     Dhavernas, Caroline	-3.93726304247e-05	
+                             Lane, Diane	-3.47561951921e-05	
+                             Bell, Jamie	3.46766373011e-05	
+                                     DMX	3.46473236959e-05	
+                        Stewart, Kristen	3.43990486855e-05	
+                         Nielsen, Connie	-3.33112635103e-05	
+                           Russell, Kurt	-3.08099316776e-05	
+                         Forlani, Claire	-3.05832203372e-05	
+                         Moore, Julianne	2.9248789708e-05	
+                            Burke, Billy	2.793533404e-05	
+                         Flanagan, Tommy	2.57992865141e-05	
+                           Cooper, Chris	2.49427007691e-05	
+                          Byrne, Gabriel	2.30982157973e-05	
+                               Ryan, Meg	2.11959788407e-05	
+                           Bon Jovi, Jon	-1.96863152124e-05	
+                  McCole Bartusiak, Skye	-1.95200102175e-05	
+                             Diesel, Vin	1.94991931387e-05	
+                     Fishburne, Laurence	1.86235560266e-05	
+                        Whitaker, Forest	-1.7378097596e-05	
+                          Paetkau, David	1.7323661848e-05	
+                     Christensen, Hayden	-1.66556317552e-05	
+                          Cox, Courteney	1.66284671794e-05	
+                           Kinnear, Greg	1.65992378204e-05	
+                      Downey Jr., Robert	1.5896192229e-05	
+                               Daly, Tim	-1.54049658388e-05	
+                            Hanks, Colin	-1.52916101686e-05	
+                              Reid, Tara	1.4624394854e-05	
+                            Bello, Maria	1.396766702e-05	
+                            Oldman, Gary	-1.31242101416e-05	
+                      Jackson, Samuel L.	1.29069966895e-05	
+                    McConaughey, Matthew	1.24713503845e-05	
+                            Rhames, Ving	-1.15853983974e-05	
+                         Grammer, Kelsey	-1.11037545034e-05	
+                           Ruffalo, Mark	1.05979894204e-05	
+                             Liotta, Ray	-1.02699772259e-05	
+                        Edwards, Anthony	-1.01944067791e-05	
+                        El-Balawi, Beans	-9.84315760618e-06	
+                       Rutherford, Kelly	9.84131222695e-06	
+                                Gong, Li	-9.76000510875e-06	
+                             Moore, Demi	8.96446596398e-06	
+                            Hauser, Cole	-8.68904879802e-06	
+                           Caplan, Lizzy	-8.32781587758e-06	
+                          Cassidy, Katie	8.29961891021e-06	
+                         Toussaint, Beth	7.94809611451e-06	
+                        Hopkins, Anthony	-7.7024829194e-06	
+                             Kilmer, Val	-7.64580508431e-06	
+                           Koteas, Elias	7.06532628025e-06	
+                       Campbell, Jeremie	6.64474195711e-06	
+                           Foster, Jodie	-6.5066700725e-06	
+                      Washington, Isaiah	6.45349834477e-06	
+                  TachovskÃ¡, Helena-Lia	5.53307927347e-06	
+                                 Aaliyah	5.29899471019e-06	
+                           Watson, Barry	5.29873074302e-06	
+                          Lucas, Jessica	4.92065611345e-06	
+                             Luke, Derek	-4.88000255438e-06	
+                           Thomas, Aaran	-4.66948698343e-06	
+                       Slater, Christian	4.54914274008e-06	
+                          Belle, Camilla	4.30233222985e-06	
+                             Larter, Ali	-4.28171777811e-06	
+                        Gyllenhaal, Jake	4.1498094551e-06	
+                        Palmer, Gretchen	3.62874725802e-06	
+                            Miller, T.J.	2.54921036197e-06	
+                        Deschanel, Emily	2.46032805672e-06	
+                         Hounsou, Djimon	-2.33474349172e-06	
+                           Curtis, Cliff	-2.29267617167e-06	
+                          Bilson, Rachel	-2.14085888906e-06	
+                           Wong, Russell	1.81437362901e-06	
+                     Cook, Rachael Leigh	1.69947357464e-06	
+                         Neri, Francesca	-1.55649566114e-06	
+                            Paxton, Bill	-1.49167374097e-06	
+                  Schwarzenegger, Arnold	-1.42723925937e-06	
+                             Weber, Jake	1.27460518098e-06	
+                       Anderson, Anthony	-1.16737174586e-06	
+                    Stahl-David, Michael	-1.14633808584e-06	
+                             Isitt, Kate	-1.09990691686e-06	
+                         De Niro, Robert	-1.07042944453e-06	
+                       Smith, Soloman K.	-8.96421250335e-07	
+                            David, Keith	-5.52343255282e-07	
+                          Costner, Kevin	-3.6822883685e-07	
+                         Mitchell, Radha	-3.66635638951e-07	
+                            Moore, Kenya	-2.76171627642e-07	
+                         Schreiber, Liev	-2.7497672922e-07	
+                         Romijn, Rebecca	5.26230369596e-12	
+                          Dorff, Stephen	1.67971236256e-12	
+                            Robbins, Tim	1.61684740683e-12	
+                         Bright, Cameron	1.11980749594e-12	
+                            Hawke, Ethan	8.3985618128e-13	
+                       Cusick, Henry Ian	8.08423703417e-13	
+                          Jackson, Roger	8.08423292579e-13	
+                             Texada, Tia	-2.74975302229e-22	
+                           Polley, Sarah	-2.74975302229e-22	
+                         Jovovich, Milla	-1.37487651115e-22	
+                           Cross, Joseph	-1.37487651115e-22	
 The 4th concept is: 
                                    Actor	         Weight	
-                           Curtis, Cliff	  0.67609944233	
-                            Paxton, Bill	 0.440218995243	
-                    Stahl-David, Michael	 0.338049721165	
-                             Isitt, Kate	 0.320595947944	
-                       Smith, Soloman K.	 0.262849321209	
-                            David, Keith	 0.163091044801	
-                          Costner, Kevin	 0.108727363201	
-                         Mitchell, Radha	 0.106865315981	
-                            Moore, Kenya	0.0815455224007	
-                         Schreiber, Liev	 0.080148986986	
-                               Ryan, Meg	0.00264911711735	
-                           Burns, Edward	0.00222291112562	
-                           Brooks, Avery	-0.00150258560016	
-                         Nielsen, Connie	0.00140283383558	
-                           Ruffalo, Mark	0.00132455855868	
-                         Forlani, Claire	-0.00130379279684	
-                           Linney, Laura	0.00111145556281	
-                           Kinnear, Greg	0.00110033798845	
-                           Russell, Kurt	0.00106892878543	
-                           Phifer, Mekhi	-0.00104293583414	
-                        Turner, Frank C.	0.000934192096984	
-                           Koteas, Elias	0.000883039039118	
-                         Moore, Julianne	-0.000751292800079	
-                        Stewart, Kristen	0.000740970375208	
-                     Christensen, Hayden	0.000701416917792	
-                                 Aaliyah	0.000662279279338	
-                            Hanks, Colin	-0.000651896398422	
-                         Flanagan, Tommy	0.000555727781406	
-                          Cassidy, Katie	0.000550168994225	
-                               Daly, Tim	0.000534464392714	
-                       Banderas, Antonio	-0.00052146791707	
-                             Diesel, Vin	-0.000500861866719	
-                         Phillippe, Ryan	0.000497535095843	
-                     Dhavernas, Caroline	-0.000482777375453	
-                         Grammer, Kelsey	0.000467611278528	
-                           Reeves, Keanu	0.000467096048492	
-                          Yoakam, Dwight	0.000445181549845	
-                        Edwards, Anthony	-0.000434597598948	
-                  McCole Bartusiak, Skye	0.000392946425698	
-                              Reid, Tara	-0.000375646400039	
-                             Lane, Diane	-0.000371036933007	
-                TachovskÃ¡, Helena-Lia	0.000366779329484	
-                           Thomas, Aaran	-0.000360196831103	
-                             Liotta, Ray	0.000356309595143	
-                           Caplan, Lizzy	0.000350708458896	
-                           Weisz, Rachel	-0.000347645278047	
-                          Chinlund, Nick	0.000336304609026	
-                             Kilmer, Val	-0.000325948199211	
-                           Mussett, Tory	0.000311397365661	
-                        Gyllenhaal, Jake	0.000275084497113	
-                            Blair, Selma	-0.000269142576753	
-                        Hopkins, Anthony	0.000267232196357	
-                          Keitel, Harvey	-0.000260733958535	
-                           Cooper, Chris	0.000248767547921	
-                      Downey Jr., Robert	0.000247426405233	
-                           Bon Jovi, Jon	-0.000241388687727	
-                             Bell, Jamie	0.000233548024246	
-                         Landes, Michael	0.000222590774923	
-                                Gong, Li	0.000196473212849	
-                        Whitaker, Forest	-0.000185518466503	
-                         Hounsou, Djimon	-0.000180098415551	
-                             Larter, Ali	0.000175161104586	
-                            Burke, Billy	0.000168152304513	
-                          Cox, Courteney	0.000165845031948	
-                            Oldman, Gary	-0.000160925791818	
-                          Travolta, John	0.000148393849948	
-                                     DMX	-0.000134571288377	
-                           Foster, Jodie	0.000130982141899	
-                    McConaughey, Matthew	0.000124383773961	
-                         Toussaint, Beth	0.000123713202616	
-                            Rhames, Ving	-0.000123678977669	
-                        El-Balawi, Beans	-0.000120694343863	
-                         Neri, Francesca	-0.000120065610368	
-                             Moore, Demi	0.000117245918262	
-                     Fishburne, Laurence	0.000112101536342	
-                           Dourdan, Gary	0.000111295387461	
-                             Luke, Derek	9.82366064244e-05	
-                            Hauser, Cole	-9.27592332517e-05	
-                       Anderson, Anthony	-9.00492077757e-05	
-                          Byrne, Gabriel	-8.97141922511e-05	
-                          Bilson, Rachel	8.75805522928e-05	
-                            Bello, Maria	8.40761522564e-05	
-                           Watson, Barry	8.2475468411e-05	
-                          Paetkau, David	-6.72856441883e-05	
-                  Schwarzenegger, Arnold	5.83870348618e-05	
-                      Jackson, Samuel L.	5.73528570622e-05	
-                         De Niro, Robert	4.37902761464e-05	
-                        Palmer, Gretchen	4.25201639729e-05	
-                       Campbell, Jeremie	2.95262286687e-05	
-                      Washington, Isaiah	2.86764285311e-05	
-                           Wong, Russell	2.12600819865e-05	
-                          Belle, Camilla	1.91176190207e-05	
-                       Slater, Christian	1.81324782568e-05	
-                       Rutherford, Kelly	-1.68860054289e-05	
-                            Miller, T.J.	1.13275381584e-05	
-                          Lucas, Jessica	-8.44300271444e-06	
-                     Cook, Rachael Leigh	7.55169210561e-06	
-                             Weber, Jake	5.6637690792e-06	
-                        Deschanel, Emily	-4.22150135722e-06	
-                                 Li, Jet	-1.0293187073e-07	
-                              Cook, A.J.	-9.53131910797e-08	
-                         Ulliel, Gaspard	-3.43106235748e-08	
-                           LaBeouf, Shia	-3.39757850596e-08	
-                         Thompson, Tessa	-2.57329676825e-08	
-                      Andrieu, Sebastien	-2.26505233713e-08	
-                               Hu, Kelly	-1.69878925298e-08	
-                         Romijn, Rebecca	1.33654211995e-10	
-                          Dorff, Stephen	4.26620336326e-11	
-                            Robbins, Tim	4.1065363505e-11	
-                         Bright, Cameron	2.84413545838e-11	
-                            Hawke, Ethan	2.13310168163e-11	
-                       Cusick, Henry Ian	2.05326817525e-11	
-                          Jackson, Roger	2.053268118e-11	
-                             Texada, Tia	-4.78211244876e-22	
-                           Polley, Sarah	-4.78211244876e-22	
-                         Jovovich, Milla	-2.39105622438e-22	
-                           Cross, Joseph	-2.39105622438e-22	
+                           Curtis, Cliff	 0.676093793928	
+                            Paxton, Bill	 0.440215354673	
+                    Stahl-David, Michael	 0.338046896964	
+                             Isitt, Kate	 0.320592847409	
+                       Smith, Soloman K.	 0.262846956792	
+                            David, Keith	 0.163089705575	
+                          Costner, Kevin	 0.108726470383	
+                         Mitchell, Radha	  0.10686428247	
+                            Moore, Kenya	0.0815448527873	
+                         Schreiber, Liev	0.0801482118523	
+                          Yoakam, Dwight	-0.00232887762211	
+                           Burns, Edward	0.00230968232066	
+                  McCole Bartusiak, Skye	-0.00209240113153	
+                         Nielsen, Connie	0.00208505785064	
+                         Phillippe, Ryan	-0.00202002956246	
+                        Turner, Frank C.	0.00163816273555	
+                           Kinnear, Greg	-0.00132492406055	
+                          Chinlund, Nick	0.00119676297822	
+                         Forlani, Claire	0.00119217574017	
+                         Landes, Michael	-0.00116443881105	
+                           Linney, Laura	0.00115484116033	
+                           Russell, Kurt	0.00106961619672	
+                                Gong, Li	-0.00104620056577	
+                     Christensen, Hayden	0.00104252892532	
+                           Cooper, Chris	-0.00101001478123	
+                     Dhavernas, Caroline	-0.000905862228637	
+                           Reeves, Keanu	0.000819081367776	
+                               Ryan, Meg	0.000818283077267	
+                           Thomas, Aaran	-0.000797927590817	
+                             Larter, Ali	0.000777382757855	
+                          Travolta, John	-0.000776292540703	
+                        Stewart, Kristen	0.000769894106888	
+                           Foster, Jodie	-0.000697467043844	
+                         Grammer, Kelsey	0.000695019283546	
+                          Cox, Courteney	-0.000673343187487	
+                          Cassidy, Katie	-0.000662462030273	
+                           Brooks, Avery	0.000643155789014	
+                            Burke, Billy	0.000598381489108	
+                            Hanks, Colin	0.000596087870083	
+                           Dourdan, Gary	-0.000582219405527	
+                         Flanagan, Tommy	0.000577420580166	
+                           Mussett, Tory	0.000546054245184	
+                               Daly, Tim	0.000534808098361	
+                             Luke, Derek	-0.000523100282883	
+                           Caplan, Lizzy	0.000521264462659	
+                    McConaughey, Matthew	-0.000505007390615	
+                      Downey Jr., Robert	0.000461808767502	
+                           Bon Jovi, Jon	-0.000452931114318	
+                  TachovskÃ¡, Helena-Lia	-0.000441641353515	
+                             Bell, Jamie	0.000409540683888	
+                           Ruffalo, Mark	0.000409141538634	
+                         Hounsou, Djimon	-0.000398963795408	
+                     Fishburne, Laurence	0.000398920992739	
+                        Edwards, Anthony	0.000397391913389	
+                          Bilson, Rachel	0.000388691378928	
+                             Liotta, Ray	0.000356538732241	
+                        Gyllenhaal, Jake	-0.000331231015137	
+                         Moore, Julianne	0.000321577894507	
+                            Oldman, Gary	-0.000301954076212	
+                            Bello, Maria	0.000299190744554	
+                             Kilmer, Val	0.000298043935041	
+                       Rutherford, Kelly	0.000297563014377	
+                           Koteas, Elias	0.000272761025756	
+                        Hopkins, Anthony	0.00026740404918	
+                         Neri, Francesca	-0.000265975863606	
+                             Moore, Demi	0.000261959233881	
+                  Schwarzenegger, Arnold	0.000259127585952	
+                         Toussaint, Beth	0.000230904383751	
+                            Blair, Selma	0.000226551623934	
+                        El-Balawi, Beans	-0.000226465557159	
+                             Diesel, Vin	0.000214385263005	
+                                 Aaliyah	0.000204570769317	
+                       Anderson, Anthony	-0.000199481897704	
+                         De Niro, Robert	0.000194345689464	
+                              Reid, Tara	0.000160788947253	
+                           Watson, Barry	0.000153936255834	
+                          Lucas, Jessica	0.000148781507188	
+                       Slater, Christian	0.000135770384401	
+                                     DMX	0.000113275811967	
+                      Jackson, Samuel L.	0.000109489419939	
+                        Palmer, Gretchen	0.000106377727962	
+                           Phifer, Mekhi	-0.000101471021921	
+                          Byrne, Gabriel	7.5517207978e-05	
+                        Deschanel, Emily	7.43907535942e-05	
+                          Paetkau, David	5.66379059835e-05	
+                       Campbell, Jeremie	5.63670201542e-05	
+                      Washington, Isaiah	5.47447099697e-05	
+                           Wong, Russell	5.31888639808e-05	
+                       Banderas, Antonio	-5.07355109603e-05	
+                          Belle, Camilla	3.64964733131e-05	
+                           Weisz, Rachel	-3.38236739736e-05	
+                             Lane, Diane	3.05752107698e-05	
+                          Keitel, Harvey	-2.53677554802e-05	
+                            Miller, T.J.	2.16248264835e-05	
+                        Whitaker, Forest	1.52876053849e-05	
+                     Cook, Rachael Leigh	1.4416550989e-05	
+                             Weber, Jake	1.08124132418e-05	
+                            Rhames, Ving	1.01917369233e-05	
+                            Hauser, Cole	7.64380269245e-06	
+                                 Li, Jet	1.46905649871e-06	
+                              Cook, A.J.	1.36032175243e-06	
+                         Ulliel, Gaspard	4.89685499579e-07	
+                           LaBeouf, Shia	4.84906642498e-07	
+                         Thompson, Tessa	3.67264124678e-07	
+                      Andrieu, Sebastien	3.23271095001e-07	
+                               Hu, Kelly	2.42453321249e-07	
+                         Romijn, Rebecca	1.96796631268e-11	
+                          Dorff, Stephen	6.28168931849e-12	
+                            Robbins, Tim	6.04659342022e-12	
+                         Bright, Cameron	4.1877917776e-12	
+                            Hawke, Ethan	3.14084465925e-12	
+                       Cusick, Henry Ian	3.02329671011e-12	
+                          Jackson, Roger	3.02329453894e-12	
+                             Texada, Tia	4.0035084071e-24	
+                           Polley, Sarah	4.0035084071e-24	
+                         Jovovich, Milla	2.00175420355e-24	
+                           Cross, Joseph	2.00175420355e-24	

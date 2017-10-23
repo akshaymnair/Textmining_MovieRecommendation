@@ -36,7 +36,7 @@ for i in range(no_of_components):
 	concept = []
 	for j, component in enumerate(svd.components_[i]):
 		concept.append((actor_list[j], component))
-	concept.sort(key=lambda tup: abs(tup[1]), reverse=True)
+	concept.sort(key=lambda tup:tup[1], reverse=True)
 	concepts.append(concept)
 util.print_output(task, concepts)
 util.write_output_file(task, concepts, output_file)

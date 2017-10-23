@@ -12,7 +12,6 @@ output_folder = os.path.join(os.path.dirname(__file__), "..", "..", "Output")
 def main():
 	tag_movie_rating_3d_matrix = cPickle.load( open( "tag_movie_rating_tensor.pkl", "rb" ) )
 	tag_movie_rating_array = np.array(tag_movie_rating_3d_matrix)
-	print tag_movie_rating_array.shape
 	decomposed = parafac(tag_movie_rating_array, no_of_components, init='random')
 	# print decomposed[0]
 	# print decomposed[1]

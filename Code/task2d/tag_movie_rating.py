@@ -13,7 +13,6 @@ def main():
 	tags_list = mltags.tagid.unique()
 	average_movie_rating = mlratings.groupby(['movieid'])['rating'].mean().reset_index()
 	average_movie_rating = average_movie_rating.rename(columns={'rating':'rating_avg'})
-	print len(tags_list), len(movies_list), len(ratings_list)
 	tag_movie_rating_grouped = mlmovies.merge(mlratings,on='movieid', how='inner').merge(mltags,on='movieid', how='inner').merge(average_movie_rating,on='movieid', how='inner')
 	tag_movie_rating_tensor = []
 	for tag in tags_list:

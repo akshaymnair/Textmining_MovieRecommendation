@@ -3,7 +3,7 @@ from sklearn.metrics import pairwise_distances as Distance
 import pandas as pd
 import sys
 def load_obj(file):
-	with open(file,'r') as input:
+	with open(file,'rb') as input:
 		obj = pickle.load(input)
 	return obj
 
@@ -23,7 +23,7 @@ movie_ids = df_mlratings.loc[df_mlratings['userid']== user].movieid.unique().tol
 movie_ids = movie_ids + df_mltags.loc[df_mltags['userid']==user].movieid.unique().tolist()
 
 if(movie_ids==[]):
-	print 'The user has not watched any movie'
+	print ('The user has not watched any movie')
 else:
 
 	# Calculate cosine distance between movies watched by the user and all the other movies and store it in a matrix D
@@ -36,7 +36,7 @@ else:
 
 
 	index_order = D_sum.argsort() 
-	
+
 	count = 0 
 	recommend_movie_ids = []
 	for index1 in index_order:
@@ -46,14 +46,14 @@ else:
 		if(count==5):
 			break
 
-	print '--------------Movies watched by users----------------'
+	print ('--------------Movies watched by users----------------')
 
 	df_movies = pd.read_csv('../../Phase2_data/mlmovies.csv')
 
 	for mid in  movie_ids:
-		print df_movies.loc[df_movies['movieid']==mid,'moviename'].iloc[0]
+		print( df_movies.loc[df_movies['movieid']==mid,'moviename'].iloc[0])
 
-	print '---------------Recommended movies--------------------'
+	print( '---------------Recommended movies--------------------')
 
 	for mid in  recommend_movie_ids:
-		print df_movies.loc[df_movies['movieid']==mid,'moviename'].iloc[0]
+		print( df_movies.loc[df_movies['movieid']==mid,'moviename'].iloc[0])

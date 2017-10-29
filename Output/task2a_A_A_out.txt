@@ -1,0 +1,1253 @@
+Top 3 latent semantic of Actor -> Actor Similarity, is :
+
+Concept 1 is: 
+                                   Actor	        Weight 
+	
+                                      Wilson, Owen	 0.434698378811	
+                                      Chan, Jackie	 0.372712386253	
+                                       Fisher, Tom	 0.372712386253	
+                             Taylor-Johnson, Aaron	 0.372712386252	
+                                        Snoop Dogg	 0.362534481514	
+                                      Stiller, Ben	 0.362534481514	
+                                  Williamson, Fred	 0.362534481514	
+                                      Cheadle, Don	 6.72258944287e-23	
+                                     Jackman, Hugh	 6.72258944285e-23	
+                                    Travolta, John	 6.72258944283e-23	
+                                      Berry, Halle	 6.72258944281e-23	
+                                      Affleck, Ben	 6.16727753067e-23	
+                            Duncan, Michael Clarke	 6.16727753066e-23	
+                                    Farrell, Colin	 6.16727753065e-23	
+                                  Garner, Jennifer	 6.16727753065e-23	
+                                      Rhames, Ving	 4.63194531077e-23	
+                                     Polley, Sarah	 4.23647440967e-23	
+                                       Weber, Jake	 4.23647440967e-23	
+                                     Phifer, Mekhi	 4.23647440967e-23	
+                                     Baldwin, Alec	 2.08385175606e-23	
+                                      Wen, Ming-Na	 2.08385175606e-23	
+                                    Buscemi, Steve	 2.08385175606e-23	
+                                   De Niro, Robert	 1.01968567427e-31	
+                                   Romijn, Rebecca	 9.24295657651e-32	
+                                   Bright, Cameron	 9.24295657651e-32	
+                                     Kinnear, Greg	 9.24295657651e-32	
+                                  Hopkins, Anthony	 -7.58592785981e-32	
+                                       Liotta, Ray	 -7.58592785981e-32	
+                                      Oldman, Gary	 -7.58592785981e-32	
+                                   Moore, Julianne	 -7.58592785981e-32	
+                                      Leary, Denis	 -5.75226362006e-32	
+                                   Leguizamo, John	 -5.75226362006e-32	
+                                       Romano, Ray	 -5.75226362006e-32	
+                                    Visnjic, Goran	 -5.75226362006e-32	
+                                          Ice Cube	 5.67368248159e-32	
+                                      Ashker, John	 5.67368248159e-32	
+                                      Beesley, Max	 5.67368248159e-32	
+                                        Cook, Dane	 5.67368248159e-32	
+                                     Brooks, Avery	 4.30623282644e-32	
+                                     Burns, Edward	 4.30623282644e-32	
+                                   Grammer, Kelsey	 4.30623282644e-32	
+                                     Germann, Greg	 3.53242480875e-32	
+                                     Isaacs, Jason	 3.53242480875e-32	
+                                     Reeves, Keanu	 3.53242480875e-32	
+                                  Theron, Charlize	 3.53242480875e-32	
+                                       Zahn, Steve	 2.86361012409e-32	
+                                        Duke, Bill	 2.86361012409e-32	
+                                       Feore, Colm	 2.86361012409e-32	
+                                  Lawrence, Martin	 2.86361012409e-32	
+                                   Landes, Michael	 -2.62611525427e-32	
+                                    Paetkau, David	 -2.62611525427e-32	
+                                       Larter, Ali	 -2.62611525427e-32	
+                                        Cook, A.J.	 -2.62611525427e-32	
+                                       Shaw, Fiona	 2.51099052049e-32	
+                                Griffiths, Richard	 2.51099052049e-32	
+                                 Radcliffe, Daniel	 2.51099052049e-32	
+                                       Ferris, Pam	 2.51099052049e-32	
+                                   Fiennes, Joseph	 2.40403478754e-32	
+                                        Harris, Ed	 2.34056944605e-32	
+                                         Law, Jude	 2.34056944605e-32	
+                                     Weisz, Rachel	 2.34056944605e-32	
+                                 Anderson, Anthony	 -2.22194969178e-32	
+                                    Muniz, Frankie	 -2.22194969178e-32	
+                                 Spearritt, Hannah	 -2.22194969178e-32	
+                                Stevenson, Cynthia	 -2.22194969178e-32	
+                                  Cronin, Jonathan	 1.87578724153e-32	
+                                  Glauser, Michael	 1.87578724153e-32	
+                               Mainwaring, Cameron	 1.87578724153e-32	
+                               Armstrong, Brittany	 1.87578724153e-32	
+                                   Duchovny, David	 -1.67477050349e-32	
+                                       Katt, Nicky	 -1.67477050349e-32	
+                                 Keener, Catherine	 -1.67477050349e-32	
+                                   McCormack, Mary	 -1.67477050349e-32	
+                            Schwarzenegger, Arnold	 -1.58965026013e-32	
+                                     Curtis, Cliff	 -1.58965026013e-32	
+                                     Koteas, Elias	 -1.58965026013e-32	
+                                   Neri, Francesca	 -1.58965026013e-32	
+                               Cook, Rachael Leigh	 -1.51542597146e-32	
+                                  Whitaker, Forest	 -1.44216374087e-32	
+                                    Yoakam, Dwight	 -1.44216374087e-32	
+                                     Foster, Jodie	 -1.44216374087e-32	
+                                  Stewart, Kristen	 -1.44216374087e-32	
+                                   Phillippe, Ryan	 -1.36108038919e-32	
+                                      Robbins, Tim	 -1.36108038919e-32	
+                                   Forlani, Claire	 -1.36108038919e-32	
+                                   Kutcher, Ashton	 -6.66315277593e-33	
+                                  McDermott, Dylan	 -6.66315277593e-33	
+                               Van Der Beek, James	 -6.66315277593e-33	
+                                        Pitt, Brad	 5.48742132442e-33	
+                                Pfeiffer, Michelle	 5.48742132442e-33	
+                             Zeta-Jones, Catherine	 5.48742132442e-33	
+                                      Firth, Colin	 2.55161999986e-33	
+                                    Atkins, Eileen	 2.55161999986e-33	
+                                     Bynes, Amanda	 2.55161999986e-33	
+                                    Preston, Kelly	 2.55161999986e-33	
+                                         Ryan, Meg	 2.29427006676e-33	
+                                        Epps, Omar	 2.29427006676e-33	
+                                Dutton, Charles S.	 2.29427006676e-33	
+                                    Shalhoub, Tony	 2.29427006676e-33	
+                               Prinze Jr., Freddie	 1.73923538517e-33	
+                            Gellar, Sarah Michelle	 1.73923538517e-33	
+                                  Lillard, Matthew	 1.73923538517e-33	
+                                 Cardellini, Linda	 1.73923538517e-33	
+                                    Jackson, Roger	        0.0	
+                                   Schreiber, Liev	        0.0	
+                                 Rutherford, Kelly	        0.0	
+                                   Toussaint, Beth	        0.0	
+                                     Dourdan, Gary	        0.0	
+                                 Smith, Soloman K.	        0.0	
+                                      Moore, Kenya	        0.0	
+                                  Palmer, Gretchen	        0.0	
+                                      David, Keith	        0.0	
+                                       Diesel, Vin	        0.0	
+                                      Hauser, Cole	        0.0	
+                                   Mitchell, Radha	        0.0	
+                                  Douglas, Michael	        0.0	
+                                Downey Jr., Robert	        0.0	
+                                    Maguire, Tobey	        0.0	
+                                McDormand, Frances	        0.0	
+                                    Goldblum, Jeff	        0.0	
+                                      Wood, Elijah	        0.0	
+                                      Hayek, Salma	        0.0	
+                                    Brisbin, David	        0.0	
+                                    Finney, Albert	        0.0	
+                                    Didawick, Dawn	        0.0	
+                                    Roberts, Julia	        0.0	
+                                           Li, Jet	        0.0	
+                                Washington, Isaiah	        0.0	
+                                     Wong, Russell	        0.0	
+                                           Aaliyah	        0.0	
+                                     Bon Jovi, Jon	        0.0	
+                                    Keitel, Harvey	        0.0	
+                              McConaughey, Matthew	        0.0	
+                                      Paxton, Bill	        0.0	
+                                      Lodge, David	        0.0	
+                                   Papenbrook, Bob	        0.0	
+                                      Seth, Joshua	        0.0	
+                                 Miller, Lara Jill	        0.0	
+                                     Irons, Jeremy	        0.0	
+                                      Payne, Bruce	        0.0	
+                                    Wayans, Marlon	        0.0	
+                                    Whalin, Justin	        0.0	
+                                    Costner, Kevin	        0.0	
+                                     Russell, Kurt	        0.0	
+                                 Slater, Christian	        0.0	
+                                    Cox, Courteney	        0.0	
+                                            Carman	        0.0	
+                                    Nouri, Michael	        0.0	
+                                  Williams, Jeremy	        0.0	
+                               Manterola, Patricia	        0.0	
+                                  Brimley, Wilford	        0.0	
+                                 Brown, Matthew A.	        0.0	
+                                  Dutcher, Richard	        0.0	
+                                    Morgan, Carrie	        0.0	
+                                      Klein, Chris	        0.0	
+                                         LL Cool J	        0.0	
+                                        Reno, Jean	        0.0	
+                                    Bleek, Memphis	        0.0	
+                                       Dash, Damon	        0.0	
+                                     Sigel, Beanie	        0.0	
+                                   Sparks, Omillio	        0.0	
+                                        Epps, Mike	        0.0	
+                                   Flanagan, Tommy	        0.0	
+                                   Chaplin, Carmen	        0.0	
+                                     Pollak, Kevin	        0.0	
+                                      Quinn, Aidan	        0.0	
+                                Thomas, Eddie Kaye	        0.0	
+                                      Hunt, Bonnie	        0.0	
+                                  O'Connell, Jerry	        0.0	
+                               Walken, Christopher	        0.0	
+                                   Warren, Estella	        0.0	
+                                               DMX	        0.0	
+                                         Hu, Kelly	        0.0	
+                                         Daly, Tim	        0.0	
+                                Jackson, Samuel L.	        0.0	
+                                   Nielsen, Connie	        0.0	
+                                   Freeman, Morgan	        0.0	
+                               Thornton, Billy Bob	        0.0	
+                                    Dunst, Kirsten	        0.0	
+                                     Hunter, Holly	        0.0	
+                                      Bleu, Corbin	        0.0	
+                                     Thieriot, Max	        0.0	
+                                   Beals, Jennifer	        0.0	
+                                 Campbell, Jeremie	        0.0	
+                                       Kilmer, Val	        0.0	
+                                       Luke, Derek	        0.0	
+                                       Texada, Tia	        0.0	
+                                      Depp, Johnny	        0.0	
+                                 Highmore, Freddie	        0.0	
+                                      Kelly, David	        0.0	
+                             Bonham Carter, Helena	        0.0	
+                                    Byrne, Gabriel	        0.0	
+                               Fishburne, Laurence	        0.0	
+                                      Hawke, Ethan	        0.0	
+                                      Bello, Maria	        0.0	
+                                    Dorff, Stephen	        0.0	
+                                  Turner, Frank C.	        0.0	
+                                        Reid, Tara	        0.0	
+                                     Watson, Barry	        0.0	
+                                  Deschanel, Emily	        0.0	
+                            McCole Bartusiak, Skye	        0.0	
+                                     Mussett, Tory	        0.0	
+                                   Hounsou, Djimon	        0.0	
+                                     LaBeouf, Shia	        0.0	
+                                     Daniels, Jeff	        0.0	
+                                    Matthews, Dave	        0.0	
+                                  Robb, AnnaSophia	        0.0	
+                                     Tyson, Cicely	        0.0	
+                                       Astin, Sean	        0.0	
+                                     Corbett, John	        0.0	
+                                    Thomas, Marcus	        0.0	
+                                        Smart, Amy	        0.0	
+                            Cedric the Entertainer	        0.0	
+                                     Vaughn, Vince	        0.0	
+                                      Thurman, Uma	        0.0	
+                                   Bradshaw, Terry	        0.0	
+                                      Abdul, Paula	        0.0	
+                                    Bliss, Lucille	        0.0	
+                                 Cruz, PenÃ©lope	        0.0	
+                                      Foley, Macka	        0.0	
+                                     Franco, James	        0.0	
+                                      Parrack, Jim	        0.0	
+                                  Wahlberg, Donnie	        0.0	
+                                     Levi, Zachary	        0.0	
+                                         Long, Nia	        0.0	
+                                    Procter, Emily	        0.0	
+                                    Belle, Camilla	        0.0	
+                                    Cassidy, Katie	        0.0	
+                                   Thompson, Tessa	        0.0	
+                                  Greenwood, Bruce	        0.0	
+                                      Walker, Paul	        0.0	
+                                   Bloodgood, Moon	        0.0	
+                                    Crewson, Wendy	        0.0	
+                                     Kodjoe, Boris	        0.0	
+                                      Perry, Tyler	        0.0	
+                                  Underwood, Blair	        0.0	
+                                   Whitfield, Lynn	        0.0	
+                                Andrieu, Sebastien	        0.0	
+                                    Chinlund, Nick	        0.0	
+                                   Jovovich, Milla	        0.0	
+                                 Cusick, Henry Ian	        0.0	
+                                  El-Balawi, Beans	        0.0	
+                                       Isitt, Kate	        0.0	
+                                       Moore, Demi	        0.0	
+                                     Carell, Steve	        0.0	
+                                  Shandling, Garry	        0.0	
+                                     Willis, Bruce	        0.0	
+                                      Sykes, Wanda	        0.0	
+                                  Dempsey, Patrick	        0.0	
+                                      Glenn, Scott	        0.0	
+                                  Staunton, Imelda	        0.0	
+                                     Swank, Hilary	        0.0	
+                             Henson, Darrin Dewitt	        0.0	
+                                             Ne-Yo	        0.0	
+                                   Short, Columbus	        0.0	
+                                      Good, Meagan	        0.0	
+                                   Fillion, Nathan	        0.0	
+                                     Sisto, Jeremy	        0.0	
+                                     Hines, Cheryl	        0.0	
+                                     Russell, Keri	        0.0	
+                                    Campbell, Adam	        0.0	
+                                         Penn, Kal	        0.0	
+                                Coolidge, Jennifer	        0.0	
+                                       Mays, Jayma	        0.0	
+                                     Thomas, Aaran	        0.0	
+                                   Ulliel, Gaspard	        0.0	
+                                          Gong, Li	        0.0	
+                          TachovskÃ¡, Helena-Lia	        0.0	
+                                     Cooper, Chris	        0.0	
+                               Dhavernas, Caroline	        0.0	
+                                     Linney, Laura	        0.0	
+                                   Freeman, Martin	        0.0	
+                                       Nighy, Bill	        0.0	
+                                       Pegg, Simon	        0.0	
+                                    Popper, Robert	        0.0	
+                                  Edwards, Anthony	        0.0	
+                                  Gyllenhaal, Jake	        0.0	
+                                     Ruffalo, Mark	        0.0	
+                                        Allen, Tim	        0.0	
+                                  Macy, William H.	        0.0	
+                                       Burn, Scott	        0.0	
+                                       Gamble, Ken	        0.0	
+                                   Lamont, Ceilidh	        0.0	
+                                 Banderas, Antonio	        0.0	
+                                      Hanks, Colin	        0.0	
+                                      Blair, Selma	        0.0	
+                                      Miller, T.J.	        0.0	
+                              Stahl-David, Michael	        0.0	
+                                     Caplan, Lizzy	        0.0	
+                                    Lucas, Jessica	        0.0	
+                                     Morgan, Tracy	        0.0	
+                                    Williams, Katt	        0.0	
+                                   Devine, Loretta	        0.0	
+                                      Burke, Billy	        0.0	
+                                     Cross, Joseph	        0.0	
+                                       Lane, Diane	        0.0	
+                                       Bell, Jamie	        0.0	
+                               Christensen, Hayden	        0.0	
+                                    Bilson, Rachel	        0.0	
+                              Church, Thomas Haden	        0.0	
+                                     Quaid, Dennis	        0.0	
+                                       Page, Ellen	        0.0	
+                             Parker, Sarah Jessica	        0.0	
+                                    Butler, Gerard	        0.0	
+                                   Carman, Michael	        0.0	
+                                  Breslin, Abigail	        0.0	
+                                         Cho, John	        0.0	
+                                      Conley, Jack	        0.0	
+                                      Corddry, Rob	        0.0	
+Concept 2 is: 
+                                   Actor	        Weight 
+	
+                                      Cheadle, Don	 0.32754582224	
+                                     Jackman, Hugh	 0.327545822239	
+                                    Travolta, John	 0.327545822239	
+                                      Berry, Halle	 0.327545822238	
+                                      Affleck, Ben	 0.300489269341	
+                            Duncan, Michael Clarke	 0.300489269341	
+                                    Farrell, Colin	 0.30048926934	
+                                  Garner, Jennifer	 0.30048926934	
+                                      Rhames, Ving	 0.225683027096	
+                                     Polley, Sarah	 0.206414433859	
+                                       Weber, Jake	 0.206414433859	
+                                     Phifer, Mekhi	 0.206414433859	
+                                     Baldwin, Alec	 0.101531849099	
+                                      Wen, Ming-Na	 0.101531849099	
+                                    Buscemi, Steve	 0.101531849099	
+                               Cook, Rachael Leigh	 3.25457714365e-11	
+                                Griffiths, Richard	 -3.09090609877e-11	
+                                       Ferris, Pam	 -3.09090609877e-11	
+                                 Radcliffe, Daniel	 -3.09090609877e-11	
+                                       Shaw, Fiona	 -3.09090609877e-11	
+                                   Forlani, Claire	 2.92309964904e-11	
+                                   Phillippe, Ryan	 2.92309964904e-11	
+                                      Robbins, Tim	 2.92309964904e-11	
+                                  Hopkins, Anthony	 2.6274892133e-11	
+                                      Oldman, Gary	 2.6274892133e-11	
+                                   Moore, Julianne	 2.6274892133e-11	
+                                       Liotta, Ray	 2.6274892133e-11	
+                                Dutton, Charles S.	 2.20693659778e-11	
+                                    Shalhoub, Tony	 2.20693659778e-11	
+                                        Epps, Omar	 2.20693659778e-11	
+                                         Ryan, Meg	 2.20693659778e-11	
+                                  Cronin, Jonathan	 -1.97529459791e-11	
+                               Mainwaring, Cameron	 -1.97529459791e-11	
+                               Armstrong, Brittany	 -1.97529459791e-11	
+                                  Glauser, Michael	 -1.97529459791e-11	
+                                 Anderson, Anthony	 -1.9524615232e-11	
+                                    Muniz, Frankie	 -1.9524615232e-11	
+                                 Spearritt, Hannah	 -1.9524615232e-11	
+                                Stevenson, Cynthia	 -1.9524615232e-11	
+                                   Duchovny, David	 -1.54013166769e-11	
+                                       Katt, Nicky	 -1.54013166769e-11	
+                                 Keener, Catherine	 -1.54013166769e-11	
+                                   McCormack, Mary	 -1.54013166769e-11	
+                                   Leguizamo, John	 1.53668203348e-11	
+                                    Visnjic, Goran	 1.53668203348e-11	
+                                      Leary, Denis	 1.53668203348e-11	
+                                       Romano, Ray	 1.53668203348e-11	
+                                          Ice Cube	 -1.44838193277e-11	
+                                      Ashker, John	 -1.44838193277e-11	
+                                      Beesley, Max	 -1.44838193277e-11	
+                                        Cook, Dane	 -1.44838193277e-11	
+                                   Kutcher, Ashton	 1.43099993913e-11	
+                                  McDermott, Dylan	 1.43099993913e-11	
+                               Van Der Beek, James	 1.43099993913e-11	
+                               Prinze Jr., Freddie	 -1.42579429036e-11	
+                                  Lillard, Matthew	 -1.42579429036e-11	
+                            Gellar, Sarah Michelle	 -1.42579429036e-11	
+                                 Cardellini, Linda	 -1.42579429036e-11	
+                                       Zahn, Steve	 -1.274360309e-11	
+                                        Duke, Bill	 -1.274360309e-11	
+                                       Feore, Colm	 -1.274360309e-11	
+                                  Lawrence, Martin	 -1.274360309e-11	
+                                  Whitaker, Forest	 1.24532765067e-11	
+                                    Yoakam, Dwight	 1.24532765067e-11	
+                                     Foster, Jodie	 1.24532765067e-11	
+                                  Stewart, Kristen	 1.24532765067e-11	
+                                     Curtis, Cliff	 -1.05435572925e-11	
+                                   Neri, Francesca	 -1.05435572925e-11	
+                            Schwarzenegger, Arnold	 -1.05435572925e-11	
+                                     Koteas, Elias	 -1.05435572925e-11	
+                                   De Niro, Robert	 -1.00831523945e-11	
+                                     Germann, Greg	 -9.7156901026e-12	
+                                     Isaacs, Jason	 -9.7156901026e-12	
+                                     Reeves, Keanu	 -9.7156901026e-12	
+                                  Theron, Charlize	 -9.7156901026e-12	
+                                     Kinnear, Greg	 -9.13988909415e-12	
+                                   Bright, Cameron	 -9.13988909415e-12	
+                                   Romijn, Rebecca	 -9.13988909415e-12	
+                                       Larter, Ali	 4.31079335949e-12	
+                                        Cook, A.J.	 4.31079335949e-12	
+                                   Landes, Michael	 4.31079335949e-12	
+                                    Paetkau, David	 4.31079335949e-12	
+                                   Grammer, Kelsey	 -4.25821436263e-12	
+                                     Brooks, Avery	 -4.25821436263e-12	
+                                     Burns, Edward	 -4.25821436263e-12	
+                                      Firth, Colin	 3.66813070532e-12	
+                                    Atkins, Eileen	 3.66813070532e-12	
+                                     Bynes, Amanda	 3.66813070532e-12	
+                                    Preston, Kelly	 3.66813070532e-12	
+                                   Fiennes, Joseph	 3.16187319267e-13	
+                                        Harris, Ed	 3.07840128829e-13	
+                                         Law, Jude	 3.07840128829e-13	
+                                     Weisz, Rachel	 3.07840128829e-13	
+                             Zeta-Jones, Catherine	 7.21725428955e-14	
+                                        Pitt, Brad	 7.21725428955e-14	
+                                Pfeiffer, Michelle	 7.21725428955e-14	
+                                      Wilson, Owen	 -8.92180126811e-23	
+                                      Chan, Jackie	 -7.64959337876e-23	
+                                       Fisher, Tom	 -7.64959337875e-23	
+                             Taylor-Johnson, Aaron	 -7.64959337874e-23	
+                                        Snoop Dogg	 -7.44070085044e-23	
+                                      Stiller, Ben	 -7.44070085044e-23	
+                                  Williamson, Fred	 -7.44070085044e-23	
+                                     Dourdan, Gary	 -2.67268487946e-26	
+                                      Hauser, Cole	 -1.30913293801e-26	
+                                 Rutherford, Kelly	 -1.04764223086e-26	
+                                      David, Keith	 -9.31759078263e-27	
+                                 Smith, Soloman K.	 8.64810152046e-27	
+                                   Toussaint, Beth	 5.18742987256e-27	
+                                   Mitchell, Radha	 3.70380689359e-27	
+                                  Palmer, Gretchen	 -3.55277285641e-27	
+                                       Diesel, Vin	 -3.51007075212e-27	
+                                      Moore, Kenya	 8.99402015665e-28	
+                                   Schreiber, Liev	 -1.37908998914e-28	
+                                    Jackson, Roger	 7.33850952065e-39	
+                                  Douglas, Michael	        0.0	
+                                Downey Jr., Robert	        0.0	
+                                    Maguire, Tobey	        0.0	
+                                McDormand, Frances	        0.0	
+                                    Goldblum, Jeff	        0.0	
+                                      Wood, Elijah	        0.0	
+                                      Hayek, Salma	        0.0	
+                                    Brisbin, David	        0.0	
+                                    Finney, Albert	        0.0	
+                                    Didawick, Dawn	        0.0	
+                                    Roberts, Julia	        0.0	
+                                           Li, Jet	        0.0	
+                                Washington, Isaiah	        0.0	
+                                     Wong, Russell	        0.0	
+                                           Aaliyah	        0.0	
+                                     Bon Jovi, Jon	        0.0	
+                                    Keitel, Harvey	        0.0	
+                              McConaughey, Matthew	        0.0	
+                                      Paxton, Bill	        0.0	
+                                      Lodge, David	        0.0	
+                                   Papenbrook, Bob	        0.0	
+                                      Seth, Joshua	        0.0	
+                                 Miller, Lara Jill	        0.0	
+                                     Irons, Jeremy	        0.0	
+                                      Payne, Bruce	        0.0	
+                                    Wayans, Marlon	        0.0	
+                                    Whalin, Justin	        0.0	
+                                    Costner, Kevin	        0.0	
+                                     Russell, Kurt	        0.0	
+                                 Slater, Christian	        0.0	
+                                    Cox, Courteney	        0.0	
+                                            Carman	        0.0	
+                                    Nouri, Michael	        0.0	
+                                  Williams, Jeremy	        0.0	
+                               Manterola, Patricia	        0.0	
+                                  Brimley, Wilford	        0.0	
+                                 Brown, Matthew A.	        0.0	
+                                  Dutcher, Richard	        0.0	
+                                    Morgan, Carrie	        0.0	
+                                      Klein, Chris	        0.0	
+                                         LL Cool J	        0.0	
+                                        Reno, Jean	        0.0	
+                                    Bleek, Memphis	        0.0	
+                                       Dash, Damon	        0.0	
+                                     Sigel, Beanie	        0.0	
+                                   Sparks, Omillio	        0.0	
+                                        Epps, Mike	        0.0	
+                                   Flanagan, Tommy	        0.0	
+                                   Chaplin, Carmen	        0.0	
+                                     Pollak, Kevin	        0.0	
+                                      Quinn, Aidan	        0.0	
+                                Thomas, Eddie Kaye	        0.0	
+                                      Hunt, Bonnie	        0.0	
+                                  O'Connell, Jerry	        0.0	
+                               Walken, Christopher	        0.0	
+                                   Warren, Estella	        0.0	
+                                               DMX	        0.0	
+                                         Hu, Kelly	        0.0	
+                                         Daly, Tim	        0.0	
+                                Jackson, Samuel L.	        0.0	
+                                   Nielsen, Connie	        0.0	
+                                   Freeman, Morgan	        0.0	
+                               Thornton, Billy Bob	        0.0	
+                                    Dunst, Kirsten	        0.0	
+                                     Hunter, Holly	        0.0	
+                                      Bleu, Corbin	        0.0	
+                                     Thieriot, Max	        0.0	
+                                   Beals, Jennifer	        0.0	
+                                 Campbell, Jeremie	        0.0	
+                                       Kilmer, Val	        0.0	
+                                       Luke, Derek	        0.0	
+                                       Texada, Tia	        0.0	
+                                      Depp, Johnny	        0.0	
+                                 Highmore, Freddie	        0.0	
+                                      Kelly, David	        0.0	
+                             Bonham Carter, Helena	        0.0	
+                                    Byrne, Gabriel	        0.0	
+                               Fishburne, Laurence	        0.0	
+                                      Hawke, Ethan	        0.0	
+                                      Bello, Maria	        0.0	
+                                    Dorff, Stephen	        0.0	
+                                  Turner, Frank C.	        0.0	
+                                        Reid, Tara	        0.0	
+                                     Watson, Barry	        0.0	
+                                  Deschanel, Emily	        0.0	
+                            McCole Bartusiak, Skye	        0.0	
+                                     Mussett, Tory	        0.0	
+                                   Hounsou, Djimon	        0.0	
+                                     LaBeouf, Shia	        0.0	
+                                     Daniels, Jeff	        0.0	
+                                    Matthews, Dave	        0.0	
+                                  Robb, AnnaSophia	        0.0	
+                                     Tyson, Cicely	        0.0	
+                                       Astin, Sean	        0.0	
+                                     Corbett, John	        0.0	
+                                    Thomas, Marcus	        0.0	
+                                        Smart, Amy	        0.0	
+                            Cedric the Entertainer	        0.0	
+                                     Vaughn, Vince	        0.0	
+                                      Thurman, Uma	        0.0	
+                                   Bradshaw, Terry	        0.0	
+                                      Abdul, Paula	        0.0	
+                                    Bliss, Lucille	        0.0	
+                                 Cruz, PenÃ©lope	        0.0	
+                                      Foley, Macka	        0.0	
+                                     Franco, James	        0.0	
+                                      Parrack, Jim	        0.0	
+                                  Wahlberg, Donnie	        0.0	
+                                     Levi, Zachary	        0.0	
+                                         Long, Nia	        0.0	
+                                    Procter, Emily	        0.0	
+                                    Belle, Camilla	        0.0	
+                                    Cassidy, Katie	        0.0	
+                                   Thompson, Tessa	        0.0	
+                                  Greenwood, Bruce	        0.0	
+                                      Walker, Paul	        0.0	
+                                   Bloodgood, Moon	        0.0	
+                                    Crewson, Wendy	        0.0	
+                                     Kodjoe, Boris	        0.0	
+                                      Perry, Tyler	        0.0	
+                                  Underwood, Blair	        0.0	
+                                   Whitfield, Lynn	        0.0	
+                                Andrieu, Sebastien	        0.0	
+                                    Chinlund, Nick	        0.0	
+                                   Jovovich, Milla	        0.0	
+                                 Cusick, Henry Ian	        0.0	
+                                  El-Balawi, Beans	        0.0	
+                                       Isitt, Kate	        0.0	
+                                       Moore, Demi	        0.0	
+                                     Carell, Steve	        0.0	
+                                  Shandling, Garry	        0.0	
+                                     Willis, Bruce	        0.0	
+                                      Sykes, Wanda	        0.0	
+                                  Dempsey, Patrick	        0.0	
+                                      Glenn, Scott	        0.0	
+                                  Staunton, Imelda	        0.0	
+                                     Swank, Hilary	        0.0	
+                             Henson, Darrin Dewitt	        0.0	
+                                             Ne-Yo	        0.0	
+                                   Short, Columbus	        0.0	
+                                      Good, Meagan	        0.0	
+                                   Fillion, Nathan	        0.0	
+                                     Sisto, Jeremy	        0.0	
+                                     Hines, Cheryl	        0.0	
+                                     Russell, Keri	        0.0	
+                                    Campbell, Adam	        0.0	
+                                         Penn, Kal	        0.0	
+                                Coolidge, Jennifer	        0.0	
+                                       Mays, Jayma	        0.0	
+                                     Thomas, Aaran	        0.0	
+                                   Ulliel, Gaspard	        0.0	
+                                          Gong, Li	        0.0	
+                          TachovskÃ¡, Helena-Lia	        0.0	
+                                     Cooper, Chris	        0.0	
+                               Dhavernas, Caroline	        0.0	
+                                     Linney, Laura	        0.0	
+                                   Freeman, Martin	        0.0	
+                                       Nighy, Bill	        0.0	
+                                       Pegg, Simon	        0.0	
+                                    Popper, Robert	        0.0	
+                                  Edwards, Anthony	        0.0	
+                                  Gyllenhaal, Jake	        0.0	
+                                     Ruffalo, Mark	        0.0	
+                                        Allen, Tim	        0.0	
+                                  Macy, William H.	        0.0	
+                                       Burn, Scott	        0.0	
+                                       Gamble, Ken	        0.0	
+                                   Lamont, Ceilidh	        0.0	
+                                 Banderas, Antonio	        0.0	
+                                      Hanks, Colin	        0.0	
+                                      Blair, Selma	        0.0	
+                                      Miller, T.J.	        0.0	
+                              Stahl-David, Michael	        0.0	
+                                     Caplan, Lizzy	        0.0	
+                                    Lucas, Jessica	        0.0	
+                                     Morgan, Tracy	        0.0	
+                                    Williams, Katt	        0.0	
+                                   Devine, Loretta	        0.0	
+                                      Burke, Billy	        0.0	
+                                     Cross, Joseph	        0.0	
+                                       Lane, Diane	        0.0	
+                                       Bell, Jamie	        0.0	
+                               Christensen, Hayden	        0.0	
+                                    Bilson, Rachel	        0.0	
+                              Church, Thomas Haden	        0.0	
+                                     Quaid, Dennis	        0.0	
+                                       Page, Ellen	        0.0	
+                             Parker, Sarah Jessica	        0.0	
+                                    Butler, Gerard	        0.0	
+                                   Carman, Michael	        0.0	
+                                  Breslin, Abigail	        0.0	
+                                         Cho, John	        0.0	
+                                      Conley, Jack	        0.0	
+                                      Corddry, Rob	        0.0	
+Concept 3 is: 
+                                   Actor	        Weight 
+	
+                                          Ice Cube	 0.281148128032	
+                                      Ashker, John	 0.281148128032	
+                                      Beesley, Max	 0.281148128032	
+                                        Cook, Dane	 0.281148128032	
+                                Griffiths, Richard	 0.214974727881	
+                                       Ferris, Pam	 0.214974727881	
+                                 Radcliffe, Daniel	 0.214974727881	
+                                       Shaw, Fiona	 0.214974727881	
+                                  Whitaker, Forest	 0.188778902628	
+                                    Yoakam, Dwight	 0.188778902628	
+                                     Foster, Jodie	 0.188778902628	
+                                  Stewart, Kristen	 0.188778902628	
+                                   Fiennes, Joseph	 0.124762829351	
+                                        Harris, Ed	 0.121469151734	
+                                         Law, Jude	 0.121469151734	
+                                     Weisz, Rachel	 0.121469151734	
+                                   Duchovny, David	 0.107583646969	
+                                       Katt, Nicky	 0.107583646969	
+                                 Keener, Catherine	 0.107583646969	
+                                   McCormack, Mary	 0.107583646969	
+                               Cook, Rachael Leigh	 0.0990201161801	
+                                 Anderson, Anthony	 -0.0952744647187	
+                                    Muniz, Frankie	 -0.0952744647187	
+                                 Spearritt, Hannah	 -0.0952744647187	
+                                Stevenson, Cynthia	 -0.0952744647187	
+                                      Leary, Denis	 0.0938120851426	
+                                   Leguizamo, John	 0.0938120851426	
+                                       Romano, Ray	 0.0938120851426	
+                                    Visnjic, Goran	 0.0938120851426	
+                                   Phillippe, Ryan	 0.0889349534756	
+                                      Robbins, Tim	 0.0889349534756	
+                                   Forlani, Claire	 0.0889349534756	
+                                      Firth, Colin	 0.0888381116308	
+                                    Atkins, Eileen	 0.0888381116308	
+                                     Bynes, Amanda	 0.0888381116308	
+                                    Preston, Kelly	 0.0888381116308	
+                                  Lillard, Matthew	 -0.0798643412617	
+                               Prinze Jr., Freddie	 -0.0798643412617	
+                            Gellar, Sarah Michelle	 -0.0798643412617	
+                                 Cardellini, Linda	 -0.0798643412617	
+                                  Hopkins, Anthony	 0.0776871087395	
+                                       Liotta, Ray	 0.0776871087395	
+                                      Oldman, Gary	 0.0776871087395	
+                                   Moore, Julianne	 0.0776871087395	
+                                   De Niro, Robert	 -0.054283865374	
+                                  Cronin, Jonathan	 0.0536239195677	
+                               Armstrong, Brittany	 0.0536239195677	
+                                  Glauser, Michael	 0.0536239195677	
+                               Mainwaring, Cameron	 0.0536239195677	
+                                     Germann, Greg	 -0.053321902679	
+                                     Isaacs, Jason	 -0.053321902679	
+                                     Reeves, Keanu	 -0.053321902679	
+                                  Theron, Charlize	 -0.053321902679	
+                            Schwarzenegger, Arnold	 0.0508433276209	
+                                     Koteas, Elias	 0.0508433276209	
+                                   Neri, Francesca	 0.0508433276209	
+                                     Curtis, Cliff	 0.0508433276209	
+                                     Kinnear, Greg	 -0.0492056937857	
+                                   Romijn, Rebecca	 -0.0492056937857	
+                                   Bright, Cameron	 -0.0492056937857	
+                                   Kutcher, Ashton	 0.0435380001678	
+                                  McDermott, Dylan	 0.0435380001678	
+                               Van Der Beek, James	 0.0435380001678	
+                                       Zahn, Steve	 -0.0405363828477	
+                                        Duke, Bill	 -0.0405363828477	
+                                       Feore, Colm	 -0.0405363828477	
+                                  Lawrence, Martin	 -0.0405363828477	
+                                   Landes, Michael	 0.031958554733	
+                                    Paetkau, David	 0.031958554733	
+                                       Larter, Ali	 0.031958554733	
+                                        Cook, A.J.	 0.031958554733	
+                                        Pitt, Brad	 0.0284782156159	
+                                Pfeiffer, Michelle	 0.0284782156159	
+                             Zeta-Jones, Catherine	 0.0284782156159	
+                                     Brooks, Avery	 -0.0229246098988	
+                                     Burns, Edward	 -0.0229246098988	
+                                   Grammer, Kelsey	 -0.0229246098988	
+                                Dutton, Charles S.	 -0.00776619600873	
+                                    Shalhoub, Tony	 -0.00776619600873	
+                                         Ryan, Meg	 -0.00776619600873	
+                                        Epps, Omar	 -0.00776619600873	
+                                     Jackman, Hugh	 -7.31296649417e-10	
+                                    Travolta, John	 -7.31296649415e-10	
+                                      Cheadle, Don	 -7.31296649406e-10	
+                                      Berry, Halle	 -7.31296649374e-10	
+                            Duncan, Michael Clarke	 6.42696227353e-10	
+                                  Garner, Jennifer	 6.42696227319e-10	
+                                      Affleck, Ben	 6.42696227306e-10	
+                                    Farrell, Colin	 6.42696227258e-10	
+                                      Rhames, Ving	 2.14051261525e-10	
+                                    Buscemi, Steve	 1.75044820402e-10	
+                                     Baldwin, Alec	 1.75044820381e-10	
+                                      Wen, Ming-Na	 1.75044820368e-10	
+                                       Weber, Jake	 1.35671650828e-10	
+                                     Phifer, Mekhi	 1.35671650712e-10	
+                                     Polley, Sarah	 1.35671650712e-10	
+                                   Toussaint, Beth	 -8.9830011399e-17	
+                                     Dourdan, Gary	 -7.13300922856e-17	
+                                      Hauser, Cole	 -4.92978402347e-17	
+                                 Rutherford, Kelly	 -4.91079743236e-17	
+                                 Smith, Soloman K.	 -2.68323169431e-17	
+                                   Mitchell, Radha	 -1.78801087756e-17	
+                                  Palmer, Gretchen	 -1.47116887977e-17	
+                                      Moore, Kenya	 -1.41977173163e-17	
+                                      David, Keith	 -1.17636858289e-17	
+                                       Diesel, Vin	 -8.92852499431e-18	
+                                   Schreiber, Liev	 8.02507387432e-20	
+                                       Fisher, Tom	 1.89545080159e-41	
+                                      Wilson, Owen	 1.85033443065e-41	
+                                        Snoop Dogg	 1.78151704281e-41	
+                                  Williamson, Fred	 1.75038975986e-41	
+                                      Chan, Jackie	 1.70765012248e-41	
+                             Taylor-Johnson, Aaron	 1.62795743038e-41	
+                                      Stiller, Ben	 1.62602169871e-41	
+                                    Jackson, Roger	 -1.05352643379e-41	
+                                  Douglas, Michael	        0.0	
+                                Downey Jr., Robert	        0.0	
+                                    Maguire, Tobey	        0.0	
+                                McDormand, Frances	        0.0	
+                                    Goldblum, Jeff	        0.0	
+                                      Wood, Elijah	        0.0	
+                                      Hayek, Salma	        0.0	
+                                    Brisbin, David	        0.0	
+                                    Finney, Albert	        0.0	
+                                    Didawick, Dawn	        0.0	
+                                    Roberts, Julia	        0.0	
+                                           Li, Jet	        0.0	
+                                Washington, Isaiah	        0.0	
+                                     Wong, Russell	        0.0	
+                                           Aaliyah	        0.0	
+                                     Bon Jovi, Jon	        0.0	
+                                    Keitel, Harvey	        0.0	
+                              McConaughey, Matthew	        0.0	
+                                      Paxton, Bill	        0.0	
+                                      Lodge, David	        0.0	
+                                   Papenbrook, Bob	        0.0	
+                                      Seth, Joshua	        0.0	
+                                 Miller, Lara Jill	        0.0	
+                                     Irons, Jeremy	        0.0	
+                                      Payne, Bruce	        0.0	
+                                    Wayans, Marlon	        0.0	
+                                    Whalin, Justin	        0.0	
+                                    Costner, Kevin	        0.0	
+                                     Russell, Kurt	        0.0	
+                                 Slater, Christian	        0.0	
+                                    Cox, Courteney	        0.0	
+                                            Carman	        0.0	
+                                    Nouri, Michael	        0.0	
+                                  Williams, Jeremy	        0.0	
+                               Manterola, Patricia	        0.0	
+                                  Brimley, Wilford	        0.0	
+                                 Brown, Matthew A.	        0.0	
+                                  Dutcher, Richard	        0.0	
+                                    Morgan, Carrie	        0.0	
+                                      Klein, Chris	        0.0	
+                                         LL Cool J	        0.0	
+                                        Reno, Jean	        0.0	
+                                    Bleek, Memphis	        0.0	
+                                       Dash, Damon	        0.0	
+                                     Sigel, Beanie	        0.0	
+                                   Sparks, Omillio	        0.0	
+                                        Epps, Mike	        0.0	
+                                   Flanagan, Tommy	        0.0	
+                                   Chaplin, Carmen	        0.0	
+                                     Pollak, Kevin	        0.0	
+                                      Quinn, Aidan	        0.0	
+                                Thomas, Eddie Kaye	        0.0	
+                                      Hunt, Bonnie	        0.0	
+                                  O'Connell, Jerry	        0.0	
+                               Walken, Christopher	        0.0	
+                                   Warren, Estella	        0.0	
+                                               DMX	        0.0	
+                                         Hu, Kelly	        0.0	
+                                         Daly, Tim	        0.0	
+                                Jackson, Samuel L.	        0.0	
+                                   Nielsen, Connie	        0.0	
+                                   Freeman, Morgan	        0.0	
+                               Thornton, Billy Bob	        0.0	
+                                    Dunst, Kirsten	        0.0	
+                                     Hunter, Holly	        0.0	
+                                      Bleu, Corbin	        0.0	
+                                     Thieriot, Max	        0.0	
+                                   Beals, Jennifer	        0.0	
+                                 Campbell, Jeremie	        0.0	
+                                       Kilmer, Val	        0.0	
+                                       Luke, Derek	        0.0	
+                                       Texada, Tia	        0.0	
+                                      Depp, Johnny	        0.0	
+                                 Highmore, Freddie	        0.0	
+                                      Kelly, David	        0.0	
+                             Bonham Carter, Helena	        0.0	
+                                    Byrne, Gabriel	        0.0	
+                               Fishburne, Laurence	        0.0	
+                                      Hawke, Ethan	        0.0	
+                                      Bello, Maria	        0.0	
+                                    Dorff, Stephen	        0.0	
+                                  Turner, Frank C.	        0.0	
+                                        Reid, Tara	        0.0	
+                                     Watson, Barry	        0.0	
+                                  Deschanel, Emily	        0.0	
+                            McCole Bartusiak, Skye	        0.0	
+                                     Mussett, Tory	        0.0	
+                                   Hounsou, Djimon	        0.0	
+                                     LaBeouf, Shia	        0.0	
+                                     Daniels, Jeff	        0.0	
+                                    Matthews, Dave	        0.0	
+                                  Robb, AnnaSophia	        0.0	
+                                     Tyson, Cicely	        0.0	
+                                       Astin, Sean	        0.0	
+                                     Corbett, John	        0.0	
+                                    Thomas, Marcus	        0.0	
+                                        Smart, Amy	        0.0	
+                            Cedric the Entertainer	        0.0	
+                                     Vaughn, Vince	        0.0	
+                                      Thurman, Uma	        0.0	
+                                   Bradshaw, Terry	        0.0	
+                                      Abdul, Paula	        0.0	
+                                    Bliss, Lucille	        0.0	
+                                 Cruz, PenÃ©lope	        0.0	
+                                      Foley, Macka	        0.0	
+                                     Franco, James	        0.0	
+                                      Parrack, Jim	        0.0	
+                                  Wahlberg, Donnie	        0.0	
+                                     Levi, Zachary	        0.0	
+                                         Long, Nia	        0.0	
+                                    Procter, Emily	        0.0	
+                                    Belle, Camilla	        0.0	
+                                    Cassidy, Katie	        0.0	
+                                   Thompson, Tessa	        0.0	
+                                  Greenwood, Bruce	        0.0	
+                                      Walker, Paul	        0.0	
+                                   Bloodgood, Moon	        0.0	
+                                    Crewson, Wendy	        0.0	
+                                     Kodjoe, Boris	        0.0	
+                                      Perry, Tyler	        0.0	
+                                  Underwood, Blair	        0.0	
+                                   Whitfield, Lynn	        0.0	
+                                Andrieu, Sebastien	        0.0	
+                                    Chinlund, Nick	        0.0	
+                                   Jovovich, Milla	        0.0	
+                                 Cusick, Henry Ian	        0.0	
+                                  El-Balawi, Beans	        0.0	
+                                       Isitt, Kate	        0.0	
+                                       Moore, Demi	        0.0	
+                                     Carell, Steve	        0.0	
+                                  Shandling, Garry	        0.0	
+                                     Willis, Bruce	        0.0	
+                                      Sykes, Wanda	        0.0	
+                                  Dempsey, Patrick	        0.0	
+                                      Glenn, Scott	        0.0	
+                                  Staunton, Imelda	        0.0	
+                                     Swank, Hilary	        0.0	
+                             Henson, Darrin Dewitt	        0.0	
+                                             Ne-Yo	        0.0	
+                                   Short, Columbus	        0.0	
+                                      Good, Meagan	        0.0	
+                                   Fillion, Nathan	        0.0	
+                                     Sisto, Jeremy	        0.0	
+                                     Hines, Cheryl	        0.0	
+                                     Russell, Keri	        0.0	
+                                    Campbell, Adam	        0.0	
+                                         Penn, Kal	        0.0	
+                                Coolidge, Jennifer	        0.0	
+                                       Mays, Jayma	        0.0	
+                                     Thomas, Aaran	        0.0	
+                                   Ulliel, Gaspard	        0.0	
+                                          Gong, Li	        0.0	
+                          TachovskÃ¡, Helena-Lia	        0.0	
+                                     Cooper, Chris	        0.0	
+                               Dhavernas, Caroline	        0.0	
+                                     Linney, Laura	        0.0	
+                                   Freeman, Martin	        0.0	
+                                       Nighy, Bill	        0.0	
+                                       Pegg, Simon	        0.0	
+                                    Popper, Robert	        0.0	
+                                  Edwards, Anthony	        0.0	
+                                  Gyllenhaal, Jake	        0.0	
+                                     Ruffalo, Mark	        0.0	
+                                        Allen, Tim	        0.0	
+                                  Macy, William H.	        0.0	
+                                       Burn, Scott	        0.0	
+                                       Gamble, Ken	        0.0	
+                                   Lamont, Ceilidh	        0.0	
+                                 Banderas, Antonio	        0.0	
+                                      Hanks, Colin	        0.0	
+                                      Blair, Selma	        0.0	
+                                      Miller, T.J.	        0.0	
+                              Stahl-David, Michael	        0.0	
+                                     Caplan, Lizzy	        0.0	
+                                    Lucas, Jessica	        0.0	
+                                     Morgan, Tracy	        0.0	
+                                    Williams, Katt	        0.0	
+                                   Devine, Loretta	        0.0	
+                                      Burke, Billy	        0.0	
+                                     Cross, Joseph	        0.0	
+                                       Lane, Diane	        0.0	
+                                       Bell, Jamie	        0.0	
+                               Christensen, Hayden	        0.0	
+                                    Bilson, Rachel	        0.0	
+                              Church, Thomas Haden	        0.0	
+                                     Quaid, Dennis	        0.0	
+                                       Page, Ellen	        0.0	
+                             Parker, Sarah Jessica	        0.0	
+                                    Butler, Gerard	        0.0	
+                                   Carman, Michael	        0.0	
+                                  Breslin, Abigail	        0.0	
+                                         Cho, John	        0.0	
+                                      Conley, Jack	        0.0	
+                                      Corddry, Rob	        0.0	
+
+Centroids of 3 new clusters: 
+[  4.85722573e-17   3.51715709e-03   4.60376900e-02][ 1.60708283  0.          0.        ][ -6.93889390e-18   9.36795806e-01   7.29402511e-11]
+
+Clustered actors into the 3 groups (0 : 1 :2) 
+
+                                    Jackson, Roger	 is in Cluster:          0	
+                                   Schreiber, Liev	 is in Cluster:          0	
+                                 Rutherford, Kelly	 is in Cluster:          0	
+                                   Toussaint, Beth	 is in Cluster:          0	
+                                     Dourdan, Gary	 is in Cluster:          0	
+                                 Smith, Soloman K.	 is in Cluster:          0	
+                                      Moore, Kenya	 is in Cluster:          0	
+                                  Palmer, Gretchen	 is in Cluster:          0	
+                                      David, Keith	 is in Cluster:          0	
+                                       Diesel, Vin	 is in Cluster:          0	
+                                      Hauser, Cole	 is in Cluster:          0	
+                                   Mitchell, Radha	 is in Cluster:          0	
+                                  Douglas, Michael	 is in Cluster:          0	
+                                Downey Jr., Robert	 is in Cluster:          0	
+                                    Maguire, Tobey	 is in Cluster:          0	
+                                McDormand, Frances	 is in Cluster:          0	
+                                    Goldblum, Jeff	 is in Cluster:          0	
+                                      Wood, Elijah	 is in Cluster:          0	
+                                       Zahn, Steve	 is in Cluster:          0	
+                                      Hayek, Salma	 is in Cluster:          0	
+                                    Brisbin, David	 is in Cluster:          0	
+                                    Finney, Albert	 is in Cluster:          0	
+                                    Didawick, Dawn	 is in Cluster:          0	
+                                    Roberts, Julia	 is in Cluster:          0	
+                                           Li, Jet	 is in Cluster:          0	
+                                Washington, Isaiah	 is in Cluster:          0	
+                                     Wong, Russell	 is in Cluster:          0	
+                                           Aaliyah	 is in Cluster:          0	
+                                     Bon Jovi, Jon	 is in Cluster:          0	
+                                    Keitel, Harvey	 is in Cluster:          0	
+                              McConaughey, Matthew	 is in Cluster:          0	
+                                      Paxton, Bill	 is in Cluster:          0	
+                                      Lodge, David	 is in Cluster:          0	
+                                   Papenbrook, Bob	 is in Cluster:          0	
+                                      Seth, Joshua	 is in Cluster:          0	
+                                 Miller, Lara Jill	 is in Cluster:          0	
+                                     Irons, Jeremy	 is in Cluster:          0	
+                                      Payne, Bruce	 is in Cluster:          0	
+                                    Wayans, Marlon	 is in Cluster:          0	
+                                    Whalin, Justin	 is in Cluster:          0	
+                                   Phillippe, Ryan	 is in Cluster:          0	
+                                      Robbins, Tim	 is in Cluster:          0	
+                               Cook, Rachael Leigh	 is in Cluster:          0	
+                                   Forlani, Claire	 is in Cluster:          0	
+                                  Hopkins, Anthony	 is in Cluster:          0	
+                                       Liotta, Ray	 is in Cluster:          0	
+                                      Oldman, Gary	 is in Cluster:          0	
+                                   Moore, Julianne	 is in Cluster:          0	
+                                     Germann, Greg	 is in Cluster:          0	
+                                     Isaacs, Jason	 is in Cluster:          0	
+                                     Reeves, Keanu	 is in Cluster:          0	
+                                  Theron, Charlize	 is in Cluster:          0	
+                                    Costner, Kevin	 is in Cluster:          0	
+                                     Russell, Kurt	 is in Cluster:          0	
+                                 Slater, Christian	 is in Cluster:          0	
+                                    Cox, Courteney	 is in Cluster:          0	
+                                            Carman	 is in Cluster:          0	
+                                    Nouri, Michael	 is in Cluster:          0	
+                                  Williams, Jeremy	 is in Cluster:          0	
+                               Manterola, Patricia	 is in Cluster:          0	
+                                     Brooks, Avery	 is in Cluster:          0	
+                                     Burns, Edward	 is in Cluster:          0	
+                                   De Niro, Robert	 is in Cluster:          0	
+                                   Grammer, Kelsey	 is in Cluster:          0	
+                                   Fiennes, Joseph	 is in Cluster:          0	
+                                        Harris, Ed	 is in Cluster:          0	
+                                         Law, Jude	 is in Cluster:          0	
+                                     Weisz, Rachel	 is in Cluster:          0	
+                                  Brimley, Wilford	 is in Cluster:          0	
+                                 Brown, Matthew A.	 is in Cluster:          0	
+                                  Dutcher, Richard	 is in Cluster:          0	
+                                    Morgan, Carrie	 is in Cluster:          0	
+                                      Cheadle, Don	 is in Cluster:          2	
+                                     Jackman, Hugh	 is in Cluster:          2	
+                                    Travolta, John	 is in Cluster:          2	
+                                      Berry, Halle	 is in Cluster:          2	
+                                     Baldwin, Alec	 is in Cluster:          0	
+                                    Buscemi, Steve	 is in Cluster:          0	
+                                      Rhames, Ving	 is in Cluster:          2	
+                                      Wen, Ming-Na	 is in Cluster:          0	
+                                  Cronin, Jonathan	 is in Cluster:          0	
+                                  Glauser, Michael	 is in Cluster:          0	
+                               Mainwaring, Cameron	 is in Cluster:          0	
+                               Armstrong, Brittany	 is in Cluster:          0	
+                                   Kutcher, Ashton	 is in Cluster:          0	
+                                  McDermott, Dylan	 is in Cluster:          0	
+                               Van Der Beek, James	 is in Cluster:          0	
+                                     Curtis, Cliff	 is in Cluster:          0	
+                                     Koteas, Elias	 is in Cluster:          0	
+                            Schwarzenegger, Arnold	 is in Cluster:          0	
+                                   Neri, Francesca	 is in Cluster:          0	
+                                      Klein, Chris	 is in Cluster:          0	
+                                         LL Cool J	 is in Cluster:          0	
+                                        Reno, Jean	 is in Cluster:          0	
+                                   Romijn, Rebecca	 is in Cluster:          0	
+                                    Bleek, Memphis	 is in Cluster:          0	
+                                       Dash, Damon	 is in Cluster:          0	
+                                     Sigel, Beanie	 is in Cluster:          0	
+                                   Sparks, Omillio	 is in Cluster:          0	
+                                        Epps, Mike	 is in Cluster:          0	
+                                   Flanagan, Tommy	 is in Cluster:          0	
+                                          Ice Cube	 is in Cluster:          0	
+                                   Chaplin, Carmen	 is in Cluster:          0	
+                                   Duchovny, David	 is in Cluster:          0	
+                                       Katt, Nicky	 is in Cluster:          0	
+                                 Keener, Catherine	 is in Cluster:          0	
+                                   McCormack, Mary	 is in Cluster:          0	
+                                      Leary, Denis	 is in Cluster:          0	
+                                   Leguizamo, John	 is in Cluster:          0	
+                                       Romano, Ray	 is in Cluster:          0	
+                                    Visnjic, Goran	 is in Cluster:          0	
+                                     Pollak, Kevin	 is in Cluster:          0	
+                                      Quinn, Aidan	 is in Cluster:          0	
+                                Thomas, Eddie Kaye	 is in Cluster:          0	
+                                      Hunt, Bonnie	 is in Cluster:          0	
+                                  Whitaker, Forest	 is in Cluster:          0	
+                                    Yoakam, Dwight	 is in Cluster:          0	
+                                     Foster, Jodie	 is in Cluster:          0	
+                                  Stewart, Kristen	 is in Cluster:          0	
+                                  Lillard, Matthew	 is in Cluster:          0	
+                               Prinze Jr., Freddie	 is in Cluster:          0	
+                                 Cardellini, Linda	 is in Cluster:          0	
+                            Gellar, Sarah Michelle	 is in Cluster:          0	
+                                 Anderson, Anthony	 is in Cluster:          0	
+                                  O'Connell, Jerry	 is in Cluster:          0	
+                               Walken, Christopher	 is in Cluster:          0	
+                                   Warren, Estella	 is in Cluster:          0	
+                                        Duke, Bill	 is in Cluster:          0	
+                                       Feore, Colm	 is in Cluster:          0	
+                                  Lawrence, Martin	 is in Cluster:          0	
+                                   Landes, Michael	 is in Cluster:          0	
+                                    Paetkau, David	 is in Cluster:          0	
+                                        Cook, A.J.	 is in Cluster:          0	
+                                       Larter, Ali	 is in Cluster:          0	
+                                      Chan, Jackie	 is in Cluster:          1	
+                                       Fisher, Tom	 is in Cluster:          1	
+                             Taylor-Johnson, Aaron	 is in Cluster:          1	
+                                      Wilson, Owen	 is in Cluster:          1	
+                                      Affleck, Ben	 is in Cluster:          2	
+                            Duncan, Michael Clarke	 is in Cluster:          2	
+                                    Farrell, Colin	 is in Cluster:          2	
+                                  Garner, Jennifer	 is in Cluster:          2	
+                                               DMX	 is in Cluster:          0	
+                                         Hu, Kelly	 is in Cluster:          0	
+                                         Daly, Tim	 is in Cluster:          0	
+                                Jackson, Samuel L.	 is in Cluster:          0	
+                                   Nielsen, Connie	 is in Cluster:          0	
+                                      Firth, Colin	 is in Cluster:          0	
+                                    Atkins, Eileen	 is in Cluster:          0	
+                                     Bynes, Amanda	 is in Cluster:          0	
+                                    Preston, Kelly	 is in Cluster:          0	
+                                   Freeman, Morgan	 is in Cluster:          0	
+                               Thornton, Billy Bob	 is in Cluster:          0	
+                                    Dunst, Kirsten	 is in Cluster:          0	
+                                     Hunter, Holly	 is in Cluster:          0	
+                                        Pitt, Brad	 is in Cluster:          0	
+                                Pfeiffer, Michelle	 is in Cluster:          0	
+                             Zeta-Jones, Catherine	 is in Cluster:          0	
+                                      Ashker, John	 is in Cluster:          0	
+                                      Beesley, Max	 is in Cluster:          0	
+                                        Cook, Dane	 is in Cluster:          0	
+                                      Bleu, Corbin	 is in Cluster:          0	
+                                     Thieriot, Max	 is in Cluster:          0	
+                                   Beals, Jennifer	 is in Cluster:          0	
+                                Dutton, Charles S.	 is in Cluster:          0	
+                                        Epps, Omar	 is in Cluster:          0	
+                                    Shalhoub, Tony	 is in Cluster:          0	
+                                         Ryan, Meg	 is in Cluster:          0	
+                                        Snoop Dogg	 is in Cluster:          1	
+                                      Stiller, Ben	 is in Cluster:          1	
+                                  Williamson, Fred	 is in Cluster:          1	
+                                    Muniz, Frankie	 is in Cluster:          0	
+                                 Spearritt, Hannah	 is in Cluster:          0	
+                                Stevenson, Cynthia	 is in Cluster:          0	
+                                 Campbell, Jeremie	 is in Cluster:          0	
+                                       Kilmer, Val	 is in Cluster:          0	
+                                       Luke, Derek	 is in Cluster:          0	
+                                       Texada, Tia	 is in Cluster:          0	
+                                     Phifer, Mekhi	 is in Cluster:          2	
+                                       Weber, Jake	 is in Cluster:          2	
+                                     Polley, Sarah	 is in Cluster:          2	
+                                   Bright, Cameron	 is in Cluster:          0	
+                                     Kinnear, Greg	 is in Cluster:          0	
+                                Griffiths, Richard	 is in Cluster:          0	
+                                 Radcliffe, Daniel	 is in Cluster:          0	
+                                       Ferris, Pam	 is in Cluster:          0	
+                                       Shaw, Fiona	 is in Cluster:          0	
+                                      Depp, Johnny	 is in Cluster:          0	
+                                 Highmore, Freddie	 is in Cluster:          0	
+                                      Kelly, David	 is in Cluster:          0	
+                             Bonham Carter, Helena	 is in Cluster:          0	
+                                    Byrne, Gabriel	 is in Cluster:          0	
+                               Fishburne, Laurence	 is in Cluster:          0	
+                                      Hawke, Ethan	 is in Cluster:          0	
+                                      Bello, Maria	 is in Cluster:          0	
+                                    Dorff, Stephen	 is in Cluster:          0	
+                                  Turner, Frank C.	 is in Cluster:          0	
+                                        Reid, Tara	 is in Cluster:          0	
+                                     Watson, Barry	 is in Cluster:          0	
+                                  Deschanel, Emily	 is in Cluster:          0	
+                            McCole Bartusiak, Skye	 is in Cluster:          0	
+                                     Mussett, Tory	 is in Cluster:          0	
+                                   Hounsou, Djimon	 is in Cluster:          0	
+                                     LaBeouf, Shia	 is in Cluster:          0	
+                                     Daniels, Jeff	 is in Cluster:          0	
+                                    Matthews, Dave	 is in Cluster:          0	
+                                  Robb, AnnaSophia	 is in Cluster:          0	
+                                     Tyson, Cicely	 is in Cluster:          0	
+                                       Astin, Sean	 is in Cluster:          0	
+                                     Corbett, John	 is in Cluster:          0	
+                                    Thomas, Marcus	 is in Cluster:          0	
+                                        Smart, Amy	 is in Cluster:          0	
+                            Cedric the Entertainer	 is in Cluster:          0	
+                                     Vaughn, Vince	 is in Cluster:          0	
+                                      Thurman, Uma	 is in Cluster:          0	
+                                   Bradshaw, Terry	 is in Cluster:          0	
+                                      Abdul, Paula	 is in Cluster:          0	
+                                    Bliss, Lucille	 is in Cluster:          0	
+                                 Cruz, PenÃ©lope	 is in Cluster:          0	
+                                      Foley, Macka	 is in Cluster:          0	
+                                     Franco, James	 is in Cluster:          0	
+                                      Parrack, Jim	 is in Cluster:          0	
+                                  Wahlberg, Donnie	 is in Cluster:          0	
+                                     Levi, Zachary	 is in Cluster:          0	
+                                         Long, Nia	 is in Cluster:          0	
+                                    Procter, Emily	 is in Cluster:          0	
+                                    Belle, Camilla	 is in Cluster:          0	
+                                    Cassidy, Katie	 is in Cluster:          0	
+                                   Thompson, Tessa	 is in Cluster:          0	
+                                  Greenwood, Bruce	 is in Cluster:          0	
+                                      Walker, Paul	 is in Cluster:          0	
+                                   Bloodgood, Moon	 is in Cluster:          0	
+                                    Crewson, Wendy	 is in Cluster:          0	
+                                     Kodjoe, Boris	 is in Cluster:          0	
+                                      Perry, Tyler	 is in Cluster:          0	
+                                  Underwood, Blair	 is in Cluster:          0	
+                                   Whitfield, Lynn	 is in Cluster:          0	
+                                Andrieu, Sebastien	 is in Cluster:          0	
+                                    Chinlund, Nick	 is in Cluster:          0	
+                                   Jovovich, Milla	 is in Cluster:          0	
+                                 Cusick, Henry Ian	 is in Cluster:          0	
+                                  El-Balawi, Beans	 is in Cluster:          0	
+                                       Isitt, Kate	 is in Cluster:          0	
+                                       Moore, Demi	 is in Cluster:          0	
+                                     Carell, Steve	 is in Cluster:          0	
+                                  Shandling, Garry	 is in Cluster:          0	
+                                     Willis, Bruce	 is in Cluster:          0	
+                                      Sykes, Wanda	 is in Cluster:          0	
+                                  Dempsey, Patrick	 is in Cluster:          0	
+                                      Glenn, Scott	 is in Cluster:          0	
+                                  Staunton, Imelda	 is in Cluster:          0	
+                                     Swank, Hilary	 is in Cluster:          0	
+                             Henson, Darrin Dewitt	 is in Cluster:          0	
+                                             Ne-Yo	 is in Cluster:          0	
+                                   Short, Columbus	 is in Cluster:          0	
+                                      Good, Meagan	 is in Cluster:          0	
+                                   Fillion, Nathan	 is in Cluster:          0	
+                                     Sisto, Jeremy	 is in Cluster:          0	
+                                     Hines, Cheryl	 is in Cluster:          0	
+                                     Russell, Keri	 is in Cluster:          0	
+                                    Campbell, Adam	 is in Cluster:          0	
+                                         Penn, Kal	 is in Cluster:          0	
+                                Coolidge, Jennifer	 is in Cluster:          0	
+                                       Mays, Jayma	 is in Cluster:          0	
+                                     Thomas, Aaran	 is in Cluster:          0	
+                                   Ulliel, Gaspard	 is in Cluster:          0	
+                                          Gong, Li	 is in Cluster:          0	
+                          TachovskÃ¡, Helena-Lia	 is in Cluster:          0	
+                                     Cooper, Chris	 is in Cluster:          0	
+                               Dhavernas, Caroline	 is in Cluster:          0	
+                                     Linney, Laura	 is in Cluster:          0	
+                                   Freeman, Martin	 is in Cluster:          0	
+                                       Nighy, Bill	 is in Cluster:          0	
+                                       Pegg, Simon	 is in Cluster:          0	
+                                    Popper, Robert	 is in Cluster:          0	
+                                  Edwards, Anthony	 is in Cluster:          0	
+                                  Gyllenhaal, Jake	 is in Cluster:          0	
+                                     Ruffalo, Mark	 is in Cluster:          0	
+                                        Allen, Tim	 is in Cluster:          0	
+                                  Macy, William H.	 is in Cluster:          0	
+                                       Burn, Scott	 is in Cluster:          0	
+                                       Gamble, Ken	 is in Cluster:          0	
+                                   Lamont, Ceilidh	 is in Cluster:          0	
+                                 Banderas, Antonio	 is in Cluster:          0	
+                                      Hanks, Colin	 is in Cluster:          0	
+                                      Blair, Selma	 is in Cluster:          0	
+                                      Miller, T.J.	 is in Cluster:          0	
+                              Stahl-David, Michael	 is in Cluster:          0	
+                                     Caplan, Lizzy	 is in Cluster:          0	
+                                    Lucas, Jessica	 is in Cluster:          0	
+                                     Morgan, Tracy	 is in Cluster:          0	
+                                    Williams, Katt	 is in Cluster:          0	
+                                   Devine, Loretta	 is in Cluster:          0	
+                                      Burke, Billy	 is in Cluster:          0	
+                                     Cross, Joseph	 is in Cluster:          0	
+                                       Lane, Diane	 is in Cluster:          0	
+                                       Bell, Jamie	 is in Cluster:          0	
+                               Christensen, Hayden	 is in Cluster:          0	
+                                    Bilson, Rachel	 is in Cluster:          0	
+                              Church, Thomas Haden	 is in Cluster:          0	
+                                     Quaid, Dennis	 is in Cluster:          0	
+                                       Page, Ellen	 is in Cluster:          0	
+                             Parker, Sarah Jessica	 is in Cluster:          0	
+                                    Butler, Gerard	 is in Cluster:          0	
+                                   Carman, Michael	 is in Cluster:          0	
+                                  Breslin, Abigail	 is in Cluster:          0	
+                                         Cho, John	 is in Cluster:          0	
+                                      Conley, Jack	 is in Cluster:          0	
+                                      Corddry, Rob	 is in Cluster:          0	

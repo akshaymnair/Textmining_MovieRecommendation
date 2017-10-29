@@ -8,10 +8,10 @@ def save_obj(obj, filename):
 
 
 df_tf_idf = util.get_movie_tf_idf_matrix()
-df_movies = pd.read_csv('../../new_phase2_testdata/mlmovies.csv')
-df_tags = pd.read_csv('../../new_phase2_testdata/genome-tags.csv')
-df_users = pd.read_csv('../../new_phase2_testdata/mlusers.csv')
-df_actors = pd.read_csv('../../new_phase2_testdata/imdb-actor-info.csv')
+df_movies = pd.read_csv('../../Phase2_data/mlmovies.csv')
+df_tags = pd.read_csv('../../Phase2_data/genome-tags.csv')
+df_users = pd.read_csv('../../Phase2_data/mlusers.csv')
+df_actors = pd.read_csv('../../Phase2_data/imdb-actor-info.csv')
 
 # List of movies, tags, users, actors
 movies = df_movies.movieid.unique().tolist()
@@ -38,8 +38,8 @@ user_rating = dict()
 actor_dict = dict()
 actor_ranking = dict()
 max_actor_rank = dict() 
-df_mlratings = pd.read_csv('../../new_phase2_testdata/mlratings.csv')
-df_mltags = pd.read_csv('../../new_phase2_testdata/mltags.csv')
+df_mlratings = pd.read_csv('../../Phase2_data/mlratings.csv')
+df_mltags = pd.read_csv('../../Phase2_data/mltags.csv')
 for row in df_mlratings.iterrows():
 	
 	if row[1]['movieid'] in user_dict:
@@ -48,7 +48,7 @@ for row in df_mlratings.iterrows():
 	else:
 		user_dict[row[1]['movieid']] = [row[1]['userid']]
 	user_rating[row[1]['movieid'], row[1]['userid']] = row[1]['rating']
-df_mactors = pd.read_csv('../../new_phase2_testdata/movie-actor.csv')
+df_mactors = pd.read_csv('../../Phase2_data/movie-actor.csv')
 
 for row in df_mactors.iterrows():
 	
@@ -62,7 +62,7 @@ for row in df_mactors.iterrows():
 
 # Given a movie id return the normalized tfidf values for all tags
 def check_tag(mid):
-	df_mltags = pd.read_csv('../../new_phase2_testdata/mltags.csv')
+	df_mltags = pd.read_csv('../../Phase2_data/mltags.csv')
 	values = []
 	for tag in tags:
 		if((df_mltags[['movieid','tagid']].values == [mid, tag]).all(axis=1).any()):
@@ -73,8 +73,8 @@ def check_tag(mid):
 	return values
 # Given a movie id return the normalized user rating values for all users
 def check_user(mid):
-	df_mlratings = pd.read_csv('../../new_phase2_testdata/mlratings.csv')
-	df_mltags = pd.read_csv('../../new_phase2_testdata/mltags.csv')
+	df_mlratings = pd.read_csv('../../Phase2_data/mlratings.csv')
+	df_mltags = pd.read_csv('../../Phase2_data/mltags.csv')
 	values = []
 	for user in users:
 		

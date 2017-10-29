@@ -16,8 +16,8 @@ if(len(sys.argv)>1):
 	user = int(sys.argv[1])
 
 # Find the movie ids which the given user has tagged or rated and assume it as the movies watched by the user
-df_mlratings = pd.read_csv('../../Phase2_data/mlratings.csv')
-df_mltags = pd.read_csv('../../Phase2_data/mltags.csv')
+df_mlratings = pd.read_csv('../../new_phase2_testdata/mlratings.csv')
+df_mltags = pd.read_csv('../../new_phase2_testdata/mltags.csv')
 
 movie_ids = df_mlratings.loc[df_mlratings['userid']== user].movieid.unique().tolist()
 movie_ids = movie_ids + df_mltags.loc[df_mltags['userid']==user].movieid.unique().tolist()
@@ -48,7 +48,7 @@ else:
 
 	print ('--------------Movies watched by users----------------')
 
-	df_movies = pd.read_csv('../../Phase2_data/mlmovies.csv')
+	df_movies = pd.read_csv('../../new_phase2_testdata/mlmovies.csv')
 
 	for mid in  movie_ids:
 		print( df_movies.loc[df_movies['movieid']==mid,'moviename'].iloc[0])

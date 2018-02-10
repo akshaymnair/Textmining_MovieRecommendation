@@ -1,0 +1,13 @@
+For actorid: 4999 and actor: Collateral Damage, output is :
+
+        Actorid	                              Actor name	cosine similarity	
+         313166	                           Burns, Edward	0.0145566862234	
+         861346	                         Grammer, Kelsey	0.0144139736133	
+         283459	                           Brooks, Avery	0.0142740321219	
+        1892087	                           Reeves, Keanu	0.00813285696715	
+        3807179	                        Theron, Charlize	0.00805233363084	
+        1061413	                           Isaacs, Jason	0.00797338918348	
+         810424	                           Germann, Greg	0.00789597763801	
+         542238	                         De Niro, Robert	0.00374599676768	
+        2731923	                           Bynes, Amanda	0.00199288777213	
+         719241	                            Firth, Colin	0.00197315621003	

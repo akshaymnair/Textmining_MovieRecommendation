@@ -1,0 +1,13 @@
+For actorid: 4999 and actor: Collateral Damage, output is :
+
+        Actorid	                              Actor name	cosine similarity	
+        1793283	                         Phillippe, Ryan	0.0539167323191	
+        2961547	                         Forlani, Claire	0.0528595414893	
+        1929540	                            Robbins, Tim	0.0523463420574	
+        2805709	                     Cook, Rachael Leigh	0.0485537830497	
+        2963551	                           Foster, Jodie	 0.041792632821	
+        3763705	                        Stewart, Kristen	0.0413788443772	
+        2454190	                        Whitaker, Forest	0.0409731694323	
+        2520743	                          Yoakam, Dwight	0.0405753716708	
+         618247	                         Duchovny, David	0.0405390737888	
+        1158040	                             Katt, Nicky	0.0401376968206	

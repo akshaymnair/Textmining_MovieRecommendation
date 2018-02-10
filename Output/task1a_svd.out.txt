@@ -1,114 +1,102 @@
-For genre: Action, output is :
+For genre: Thriller, output is :
 
 The 1th concept is: 
                                      Tag	         Weight	
-                                 zombies	 0.915485055391	
-                                  zombie	 0.301883699376	
-                                  remake	 0.152116756018	
-                nudity (topless - brief)	 0.150637278157	
-                       directorial debut	  0.14884373263	
-                                  action	0.0518486887786	
-                              comic book	0.0049218188257	
-                               superhero	0.00368784990402	
-              nudity (topless - notable)	0.00363437602266	
-                                    cool	0.00352587085554	
-                                 hackers	0.00184955797615	
-                                 hacking	0.00183210666705	
-                            over the top	0.00176066516105	
-                              bad acting	0.00125045088373	
-                                  marvel	0.0012482492633	
-                   heroine in tight suit	0.00124351778953	
-                                    dark	0.00122253836376	
-                                  comedy	1.5449641936e-15	
-                              motorcycle	3.29768375451e-16	
-                                   court	1.87477165501e-16	
-                               terrorism	1.83555251163e-16	
-                                  murder	1.21551385397e-16	
-                               not funny	4.76494095693e-17	
-                             buddy movie	-2.66232177907e-17	
-                                 england	-2.52676246599e-17	
-                               espionage	7.03902616086e-18	
+                        nudity (topless)	            1.0	
+                                   crime	2.59098298372e-14	
+                                   geeks	-3.85108611667e-16	
+                                   court	-9.38941639327e-17	
+                               terrorism	-9.1929952095e-17	
+                             cannibalism	-4.79931068453e-17	
+                              psychology	-4.78528789052e-17	
+                           serial killer	-4.77807888136e-17	
+                                 zombies	3.7728298631e-17	
+                               pointless	2.97400203943e-17	
+                                  boring	-2.3388699864e-17	
+                         hannibal lecter	-2.33577719798e-17	
+                             atmospheric	-1.67009810543e-17	
+                             predictable	1.47689945424e-17	
+                                  zombie	1.2441009599e-17	
+                                  remake	6.26892417745e-18	
+                nudity (topless - brief)	6.20795302098e-18	
+                       directorial debut	6.1340387382e-18	
+                                  action	4.90771511952e-18	
+                                 violent	-3.14878416496e-22	
+                               slapstick	-1.08508305706e-22	
+                                    gore	-1.04801662279e-22	
+                               hilarious	-1.0229713923e-22	
 The 2th concept is: 
                                      Tag	         Weight	
-                              motorcycle	            1.0	
-                               espionage	-4.46901378112e-15	
-                                   court	-2.06950966111e-15	
-                               terrorism	-2.02621671078e-15	
-                             buddy movie	1.7934711084e-15	
-                                 england	1.70215167685e-15	
-                               not funny	1.36155679736e-15	
-                                  murder	9.43546930978e-16	
-                                  comedy	4.10875079037e-16	
-                                 zombies	-1.79429269739e-16	
-                              bad acting	9.68717070046e-17	
-                              comic book	-8.77083919433e-17	
-                               superhero	-6.57186694826e-17	
-                                  zombie	-5.91672906342e-17	
-                                  remake	-2.98139191057e-17	
-                nudity (topless - brief)	-2.95239494591e-17	
-                       directorial debut	-2.9172428373e-17	
-                                  marvel	-2.22442026777e-17	
-                   heroine in tight suit	-2.21598863404e-17	
-                                    dark	-2.17860262247e-17	
-                                  action	-1.73344816442e-17	
-              nudity (topless - notable)	1.10355806835e-18	
-                                    cool	1.07061110523e-18	
-                                 hackers	5.61608058705e-19	
-                                 hacking	5.56309043303e-19	
-                            over the top	5.34616204992e-19	
+                                   geeks	            1.0	
+                                   crime	1.66533453694e-16	
+                        nudity (topless)	8.67361737988e-17	
+                             cannibalism	-4.35749167682e-17	
+                              psychology	-4.34475980506e-17	
+                           serial killer	-4.33821444897e-17	
+                             atmospheric	2.88971537137e-17	
+                                  boring	-2.12355631232e-17	
+                         hannibal lecter	-2.12074824243e-17	
+                                  action	-9.23112508031e-18	
+                                 zombies	1.57210669687e-18	
+                                  zombie	5.18406480443e-19	
+                                  remake	2.61220835265e-19	
+                nudity (topless - brief)	2.58680218092e-19	
+                       directorial debut	2.55600271655e-19	
+                                 violent	-1.04956258017e-23	
+                               slapstick	-3.61683276427e-24	
+                                    gore	-3.49328176691e-24	
+                               hilarious	-3.40980022177e-24	
+                               pointless	-4.65954939895e-33	
+                             predictable	-2.32977469823e-33	
+                                   court	-9.42085419371e-38	
+                               terrorism	1.21798407629e-38	
 The 3th concept is: 
                                      Tag	         Weight	
-                              comic book	 0.740302791287	
-                               superhero	 0.554698511766	
-                              bad acting	 0.188083371692	
-                                  marvel	 0.187752220585	
-                   heroine in tight suit	 0.187040548059	
-                                    dark	 0.183884981386	
-                                  action	0.0646122944836	
-              nudity (topless - notable)	0.0144316987247	
-                                    cool	0.0140008369007	
-                                 zombies	-0.00927878819671	
-                                 hackers	0.00734438685461	
-                                 hacking	0.00727508966753	
-                            over the top	0.00699140347638	
-                                  zombie	-0.00305970577024	
-                                  remake	-0.00154176100631	
-                nudity (topless - brief)	-0.00152676593716	
-                       directorial debut	-0.00150858767311	
-                                  comedy	-3.50460897345e-15	
-                                  murder	-2.85717473258e-16	
-                                   court	-2.00804852484e-16	
-                               terrorism	-1.96604130609e-16	
-                               not funny	-1.7344311959e-16	
-                              motorcycle	1.19399571324e-16	
-                             buddy movie	-6.13372153995e-17	
-                                 england	-5.82140652037e-17	
-                               espionage	-1.8170935021e-17	
+                                   crime	            1.0	
+                        nudity (topless)	-2.65343302885e-14	
+                             atmospheric	1.69605370321e-16	
+                                   court	1.5153207332e-16	
+                               terrorism	1.4836210961e-16	
+                             cannibalism	6.07294646805e-17	
+                              psychology	6.05520232041e-17	
+                           serial killer	6.04608019233e-17	
+                               pointless	-5.98337912549e-17	
+                             predictable	-2.97136627607e-17	
+                                  boring	2.95955672736e-17	
+                         hannibal lecter	2.95564317816e-17	
+                                  action	-2.62113473816e-17	
+                                 zombies	-9.95968139247e-19	
+                                  zombie	-3.28423216268e-19	
+                                  remake	-1.65489804064e-19	
+                nudity (topless - brief)	-1.63880260791e-19	
+                       directorial debut	-1.61929039205e-19	
+                                 violent	-7.35306717211e-23	
+                               slapstick	-2.5338950487e-23	
+                                    gore	-2.44733720075e-23	
+                               hilarious	-2.38885136861e-23	
+                                   geeks	-9.82142642191e-33	
 The 4th concept is: 
                                      Tag	         Weight	
-              nudity (topless - notable)	 0.606369049667	
-                                    cool	 0.588265756376	
-                                 hackers	 0.308585216639	
-                                 hacking	 0.305673593394	
-                            over the top	 0.293754100795	
-                                  action	 0.101343684436	
-                              comic book	-0.0224586792672	
-                               superhero	-0.0168279737864	
-                                 zombies	-0.0100796655971	
-                              bad acting	-0.00570591408007	
-                                  marvel	-0.00569586789817	
-                   heroine in tight suit	-0.00567427777966	
-                                    dark	-0.00557854686977	
-                                  zombie	-0.0033237972821	
-                                  remake	-0.00167483458451	
-                nudity (topless - brief)	-0.00165854525023	
-                       directorial debut	-0.00163879797086	
-                                  comedy	6.52284990068e-17	
-                              motorcycle	-8.00367401634e-18	
-                                  murder	5.04351360086e-18	
-                                   court	3.95508213121e-18	
-                               terrorism	3.87234409069e-18	
-                               not funny	3.60089583201e-18	
-                                 england	2.0598665578e-18	
-                             buddy movie	1.62124468499e-18	
-                               espionage	3.54363897965e-19	
+                               pointless	 0.895640741718	
+                             predictable	 0.444778216389	
+                                   court	2.7821966058e-15	
+                               terrorism	2.7239944309e-15	
+                                   crime	-7.20887199427e-17	
+                             cannibalism	6.8268340829e-17	
+                              psychology	6.80688720002e-17	
+                           serial killer	6.79663266292e-17	
+                        nudity (topless)	4.86286683317e-17	
+                             atmospheric	3.42015140124e-17	
+                                  boring	3.32695222046e-17	
+                         hannibal lecter	3.32255284839e-17	
+                                 zombies	2.9978624248e-18	
+                                  zombie	9.88553328851e-19	
+                                  action	4.99149355212e-19	
+                                  remake	4.98124032025e-19	
+                nudity (topless - brief)	4.9327930948e-19	
+                       directorial debut	4.87406135787e-19	
+                                 violent	3.68924281615e-19	
+                               slapstick	1.27132717372e-19	
+                                    gore	1.22789864094e-19	
+                               hilarious	1.19855463645e-19	
+                                   geeks	-2.26102016445e-32	
